@@ -1,0 +1,4563 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terraform Bug Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:11:29Z",
+            "owner": "hashicorp",
+            "repo": "terraform",
+            "stars": 49488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns",
+          "description": "Claude Code skill for Terraform and OpenTofu — testing, module design, CI/CD workflows, and production patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-03T05:56:41Z",
+            "owner": "antonbabenko",
+            "repo": "terraform-skill",
+            "stars": 2266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terragrunt Reference Architecture",
+          "description": "skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2022-02-09T08:56:45Z",
+            "owner": "antonbabenko",
+            "repo": "terragrunt-reference-architecture",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete Terraform documentation as PDF files (Updated nightly)",
+          "description": "skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-08T07:40:56Z",
+            "owner": "antonbabenko",
+            "repo": "terraform-docs-as-pdf",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-terraform-compliance",
+          "description": "Curated list of tools, frameworks, and resources for Terraform compliance and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T14:43:58Z",
+            "owner": "antonbabenko",
+            "repo": "awesome-terraform-compliance",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform AWS Modules",
+          "description": "+ meta-configurations repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2022-04-28T11:54:02Z",
+            "owner": "terraform-aws-modules",
+            "repo": "meta",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform PDF Doc",
+          "description": "skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-03T12:58:21Z",
+            "owner": "dohsimpson",
+            "repo": "terraform-doc-pdf",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials and Blog Posts"
+    },
+    {
+      "description": "For more Community Modules not listed here please see the Terraform Module Registry.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-aws-eks",
+          "description": "Creates Elastic Kubernetes Service on AWS (very popular module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T19:10:13Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-eks",
+            "stars": 4996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-vpc",
+          "description": "Creates VPC resources on AWS (verified and very popular module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:27:01Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-vpc",
+            "stars": 3254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segmentio/stack",
+          "description": "Configures production infrastructure with AWS, Docker, and ECS. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2023-04-07T22:43:12Z",
+            "owner": "segmentio",
+            "repo": "stack",
+            "stars": 2088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typhoon",
+          "description": "Minimal and free Kubernetes distribution with Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-07T22:24:48Z",
+            "owner": "poseidon",
+            "repo": "typhoon",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-secure-baseline",
+          "description": "Set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-08T09:36:36Z",
+            "owner": "nozaq",
+            "repo": "terraform-aws-secure-baseline",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-lambda",
+          "description": "Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:22:58Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-lambda",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-google-project-factory",
+          "description": "Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-10T17:23:18Z",
+            "owner": "terraform-google-modules",
+            "repo": "terraform-google-project-factory",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-rds",
+          "description": "Creates RDS resources on AWS (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:49:00Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-rds",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-ec2-instance",
+          "description": "Creates EC2 instances on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-03-26T19:54:47Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-ec2-instance",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-kubestack",
+          "description": "Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-03-05T13:40:32Z",
+            "owner": "kbst",
+            "repo": "terraform-kubestack",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-ecs",
+          "description": "Creates AWS ECS resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-09T14:02:42Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-ecs",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-security-group",
+          "description": "Creates EC2-VPC security groups on AWS (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:25:53Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-security-group",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-s3-bucket",
+          "description": "Creates S3 bucket resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T19:30:51Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-s3-bucket",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-atlantis",
+          "description": "Creates Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab, and BitBucket are supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-01-08T21:57:59Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-atlantis",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-notify-slack",
+          "description": "Creates SNS topic and Lambda function, which sends notifications to Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T20:03:30Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-notify-slack",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-alb",
+          "description": "Creates Application load-balancer on AWS (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-01-08T21:58:19Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-alb",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-rds-aurora",
+          "description": "Creates RDS Aurora cluster resources on AWS (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T19:16:00Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-rds-aurora",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-nixos",
+          "description": "A set of Terraform modules that are designed to deploy NixOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-08-04T10:19:37Z",
+            "owner": "nix-community",
+            "repo": "terraform-nixos",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-autoscaling",
+          "description": "Creates Auto-Scaling Groups and Launch Configurations (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-03T13:58:37Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-autoscaling",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-jenkins",
+          "description": "Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2023-11-15T03:04:52Z",
+            "owner": "cloudposse-archives",
+            "repo": "terraform-aws-jenkins",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-ssh-bastion-service",
+          "description": "Terraform plan to deploy ssh bastion as a stateless service on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-09-19T14:41:16Z",
+            "owner": "joshuamkite",
+            "repo": "terraform-aws-ssh-bastion-service",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-ecr",
+          "description": "Manages Docker container registries on AWS ECR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-10T18:25:10Z",
+            "owner": "cloudposse",
+            "repo": "terraform-aws-ecr",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tf_aws_bastion_s3_keys",
+          "description": "Creates bastion hosts on AWS EC2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2023-03-30T09:15:52Z",
+            "owner": "terraform-community-modules",
+            "repo": "tf_aws_bastion_s3_keys",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-transit-gateway",
+          "description": "Creates Transit Gateway resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T17:03:17Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-transit-gateway",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-eventbridge",
+          "description": "Creates EventBridge resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-11T06:37:34Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-eventbridge",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-route53",
+          "description": "Creates Route53 resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:51:51Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-route53",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-key-pair",
+          "description": "Automatically Generate SSH Key Pairs (Public/Private Keys).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-10-01T03:26:06Z",
+            "owner": "cloudposse",
+            "repo": "terraform-aws-key-pair",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-elb",
+          "description": "Creates Elastic load-balancer on AWS (verified module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-03-29T23:07:40Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-elb",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-cloudflare-maintenance",
+          "description": "Module to create a Maintenance Page using Cloudflare Workers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-11T06:27:51Z",
+            "owner": "adinhodovic",
+            "repo": "terraform-cloudflare-maintenance",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-dynamodb-table",
+          "description": "Creates DynamoDB table on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-31T09:08:57Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-dynamodb-table",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-vpn-gateway",
+          "description": "Creates VPN gateway resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:27:09Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-vpn-gateway",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-ecs-jenkins",
+          "description": "Provisions Jenkins on AWS ECS using Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2017-10-08T00:44:13Z",
+            "owner": "shuaibiyy",
+            "repo": "terraform-ecs-jenkins",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-efs",
+          "description": "Defines an EFS Filesystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-05-03T17:56:18Z",
+            "owner": "cloudposse",
+            "repo": "terraform-aws-efs",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-redshift",
+          "description": "Creates Redshift resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:38:05Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-redshift",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-postgresql-rds",
+          "description": "Creates PostgreSQL on RDS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2023-06-20T20:28:38Z",
+            "owner": "azavea",
+            "repo": "terraform-aws-postgresql-rds",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-dms",
+          "description": "Creates AWS DMS (Database Migration Service) resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-10-21T08:58:49Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-dms",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-datadog-forwarders",
+          "description": "Creates resources on AWS to forward logs/metrics to Datadog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-06T14:01:19Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-datadog-forwarders",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-msk-kafka-cluster",
+          "description": "Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T18:42:56Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-msk-kafka-cluster",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-rds-proxy",
+          "description": "Creates AWS RDS Proxy resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:28:57Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-rds-proxy",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-static-website-s3-cloudfront",
+          "description": "Creates static websites on AWS S3 & Cloudfront based on variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2016-11-04T19:57:23Z",
+            "owner": "sergej-brazdeikis",
+            "repo": "terraform-static-website-s3-cloudfront",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-gce-atlantis",
+          "description": "Creates Terraform configurations for running Atlantis on Google Compute Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-21T06:52:26Z",
+            "owner": "runatlantis",
+            "repo": "terraform-gce-atlantis",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-managed-service-prometheus",
+          "description": "Creates AWS Managed Service for Prometheus (AMP) resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:23:03Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-managed-service-prometheus",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-appconfig",
+          "description": "Creates AWS AppConfig resources on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-10-21T08:45:02Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-appconfig",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-lambda-auto-package",
+          "description": "A terraform module to define a lambda function which source files are automatically built and packaged for lambda deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-04-02T08:41:00Z",
+            "owner": "nozaq",
+            "repo": "terraform-aws-lambda-auto-package",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rancher-terraform-digitalocean",
+          "description": "Rancher server on digitalocean.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2017-03-13T04:45:04Z",
+            "owner": "lunagt",
+            "repo": "rancher-terraform-digitalocean",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-customer-gateway",
+          "description": "Creates Customer Gateway on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-10-21T08:48:17Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-customer-gateway",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-azurerm-sqlserver",
+          "description": "Create SQl Server Database on Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2023-09-12T16:33:50Z",
+            "owner": "metadevpro",
+            "repo": "terraform-azurerm-sqlserver-seed",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-jenkins-ha-agents",
+          "description": "EC2 Based Jenkins deployment with HA (spot) agents. Runs on EFS for immutability. Fully customizable, with sensible defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-03-06T22:13:17Z",
+            "owner": "neiman-marcus",
+            "repo": "terraform-aws-jenkins-ha-agents",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-azurerm-iis",
+          "description": "Install IIS Server on Azure VM instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2019-01-08T15:16:43Z",
+            "owner": "ghostinthewires",
+            "repo": "terraform-azurerm-iis-install",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-account-lookup",
+          "description": "This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T14:36:21Z",
+            "owner": "be-bold",
+            "repo": "terraform-aws-account-lookup",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nis2shield/infrastructure",
+          "description": "Terraform modules for automated NIS2 compliance and secure infrastructure deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-01-05T08:57:39Z",
+            "owner": "nis2shield",
+            "repo": "infrastructure",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-azurerm-mysql",
+          "description": "Create MySql Database on Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-09-30T19:45:03Z",
+            "owner": "foreverXZC",
+            "repo": "terraform-azurerm-mysql",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-azurerm-redis",
+          "description": "Create Redis on Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2018-06-22T14:34:23Z",
+            "owner": "rahulkhengare",
+            "repo": "terraform-azurerm-redis",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-azurerm-aks",
+          "description": "Create AKS resources on Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2018-08-25T18:24:42Z",
+            "owner": "kjanshair",
+            "repo": "terraform-azurerm-aks",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Community Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "citizen",
+          "description": "Private Terraform Module/Provider Registry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T20:14:31Z",
+            "owner": "outsideris",
+            "repo": "citizen",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terralist",
+          "description": "Terraform Private Registry for modules and providers manageable from a REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:39:57Z",
+            "owner": "terralist",
+            "repo": "terralist",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terrareg",
+          "description": "Terraform module registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-11T19:17:20Z",
+            "owner": "MatthewJohn",
+            "repo": "terrareg",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boring-registry",
+          "description": "Private Terraform Module/Provider Registry with API key authentication and blob storage support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:45:36Z",
+            "owner": "boring-registry",
+            "repo": "boring-registry",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tapir",
+          "description": "Private Terraform Registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T01:44:40Z",
+            "owner": "PacoVK",
+            "repo": "tapir",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthology",
+          "description": "Private Terraform registry implementation as an alternative to the official registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-03T04:12:40Z",
+            "owner": "erikvanbrakel",
+            "repo": "anthology",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nrkno/terraform-registry",
+          "description": "A private Terraform registry with modular store backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:05:00Z",
+            "owner": "nrkno",
+            "repo": "terraform-registry",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "philips-labs/terraform-registry",
+          "description": "Terraform registry to serve arbitrary Terraform provider releases hosted on Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-11T15:03:01Z",
+            "owner": "philips-labs",
+            "repo": "terraform-registry",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terustry",
+          "description": "Open Source terraform provider registry acting as a proxy for gitlab or github releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-13T11:56:13Z",
+            "owner": "veepee-oss",
+            "repo": "terustry",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-simple-registry",
+          "description": "Simple implementation of the Terraform registry protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-14T11:42:36Z",
+            "owner": "apparentlymart",
+            "repo": "terraform-simple-registry",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "petra",
+          "description": "Private Terraform Registry Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-06T20:17:34Z",
+            "owner": "devoteamgcloud",
+            "repo": "petra",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Self-Hosted Registries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-provider-aws",
+          "description": "Provider for Amazon Web Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:26:57Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-aws",
+            "stars": 11042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-azurerm",
+          "description": "Provider for Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:14:15Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-azurerm",
+            "stars": 4968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-google",
+          "description": "Provider for Google Cloud Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:54:28Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-google",
+            "stars": 2639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-kubernetes",
+          "description": "Provider for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T06:32:37Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-kubernetes",
+            "stars": 1719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-helm",
+          "description": "Provider for Helm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T17:16:36Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-helm",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-vsphere",
+          "description": "Provider for VMware vSphere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:14:08Z",
+            "owner": "vmware",
+            "repo": "terraform-provider-vsphere",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-docker",
+          "description": "Provider for Docker. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-12-10T22:00:15Z",
+            "owner": "hashicorp",
+            "repo": "terraform-provider-docker",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Hashicorp supported providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-provider-dominos",
+          "description": "Provider for Dominos Pizza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-28T15:00:32Z",
+            "owner": "nat-henderson",
+            "repo": "terraform-provider-dominos",
+            "stars": 1180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-github",
+          "description": "Provider for GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:36:55Z",
+            "owner": "integrations",
+            "repo": "terraform-provider-github",
+            "stars": 1155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-keycloak",
+          "description": "Provider to manage the settings of your Keycloak identity provider server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T02:45:47Z",
+            "owner": "keycloak",
+            "repo": "terraform-provider-keycloak",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-hcloud",
+          "description": "Provider for Hetzner Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:57:11Z",
+            "owner": "hetznercloud",
+            "repo": "terraform-provider-hcloud",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-snowflake",
+          "description": "Provider for Snowflake data warehouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:52:13Z",
+            "owner": "snowflakedb",
+            "repo": "terraform-provider-snowflake",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-alicloud",
+          "description": "Provider for Alibaba Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:40:56Z",
+            "owner": "aliyun",
+            "repo": "terraform-provider-alicloud",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-digitalocean",
+          "description": "Provider for DigitalOcean.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T10:04:25Z",
+            "owner": "digitalocean",
+            "repo": "terraform-provider-digitalocean",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-openstack",
+          "description": "Plugin for OpenStack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T02:22:50Z",
+            "owner": "terraform-provider-openstack",
+            "repo": "terraform-provider-openstack",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-datadog",
+          "description": "Provider for Datadog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:56:14Z",
+            "owner": "DataDog",
+            "repo": "terraform-provider-datadog",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-gitlab",
+          "description": "Provider for GitLab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T16:01:11Z",
+            "owner": "gitlabhq",
+            "repo": "terraform-provider-gitlab",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-azuredevops",
+          "description": "Provider for Azure DevOps (VSTS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:24:00Z",
+            "owner": "microsoft",
+            "repo": "terraform-provider-azuredevops",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-ibm",
+          "description": "Provider for IBM Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T06:05:14Z",
+            "owner": "IBM-Cloud",
+            "repo": "terraform-provider-ibm",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-iterative",
+          "description": "Terraform plugin built with machine learning in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-11T23:56:40Z",
+            "owner": "iterative",
+            "repo": "terraform-provider-iterative",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-rancher2",
+          "description": "Provider for Rancher v2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:00:15Z",
+            "owner": "rancher",
+            "repo": "terraform-provider-rancher2",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-artifactory",
+          "description": "Provider for JFrog Artifactory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:47:19Z",
+            "owner": "jfrog",
+            "repo": "terraform-provider-artifactory",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-stripe",
+          "description": "Provider for Stripe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-14T22:24:44Z",
+            "owner": "franckverrot",
+            "repo": "terraform-provider-stripe",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-azapi",
+          "description": "Provider for Azure Resource Manager Rest API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:40:06Z",
+            "owner": "Azure",
+            "repo": "terraform-provider-azapi",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-elasticstack",
+          "description": "Provider for Elasticsearch and Kibana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:09:34Z",
+            "owner": "elastic",
+            "repo": "terraform-provider-elasticstack",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-spinnaker",
+          "description": "Provider for Spinnaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-14T13:29:11Z",
+            "owner": "armory-io",
+            "repo": "terraform-provider-spinnaker",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-k8s",
+          "description": "Simple Kubernetes Provider, works with any manifest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-08T14:19:35Z",
+            "owner": "banzaicloud",
+            "repo": "terraform-provider-k8s",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-uptimerobot",
+          "description": "Provider to manage uptimerobot resources. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-07-13T21:04:33Z",
+            "owner": "louy",
+            "repo": "terraform-provider-uptimerobot",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-pingdom",
+          "description": "Provider to manage Pingdom resources. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-02-20T15:22:42Z",
+            "owner": "russellcardullo",
+            "repo": "terraform-provider-pingdom",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-panos",
+          "description": "Provider for Palo Alto Networks next-generation firewalls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T15:04:34Z",
+            "owner": "PaloAltoNetworks",
+            "repo": "terraform-provider-panos",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-heroku",
+          "description": "Provider for Heroku.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-26T19:02:48Z",
+            "owner": "heroku",
+            "repo": "terraform-provider-heroku",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-ucloud",
+          "description": "Provider to manage UCloud resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T08:54:37Z",
+            "owner": "ucloud",
+            "repo": "terraform-provider-ucloud",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-healthchecksio",
+          "description": "Provider to manage healthchecks.io resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-19T01:38:48Z",
+            "owner": "kristofferahl",
+            "repo": "terraform-provider-healthchecksio",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-linode",
+          "description": "Provider for Linode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-04-12T15:37:42Z",
+            "owner": "btobolaski",
+            "repo": "terraform-provider-linode",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-atlas",
+          "description": "Provider for Atlas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-25T09:34:15Z",
+            "owner": "ariga",
+            "repo": "terraform-provider-atlas",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-spotinst",
+          "description": "Provider for spotinst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:33:06Z",
+            "owner": "spotinst",
+            "repo": "terraform-provider-spotinst",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-coder",
+          "description": "Provider for Coder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T00:56:27Z",
+            "owner": "coder",
+            "repo": "terraform-provider-coder",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-graphql",
+          "description": "Provider for GraphQL queries and mutations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T17:02:58Z",
+            "owner": "sullivtr",
+            "repo": "terraform-provider-graphql",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-confluent",
+          "description": "Provider for Confluent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:21:11Z",
+            "owner": "confluentinc",
+            "repo": "terraform-provider-confluent",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-buildkite",
+          "description": "Provider for Buildkite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:11:13Z",
+            "owner": "buildkite",
+            "repo": "terraform-provider-buildkite",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-secrethub",
+          "description": "Provider for SecretHub. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-04-15T15:09:34Z",
+            "owner": "secrethub",
+            "repo": "terraform-provider-secrethub",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-checkly",
+          "description": "Manage Checkly resources for API & E2E monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T11:22:46Z",
+            "owner": "checkly",
+            "repo": "terraform-provider-checkly",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-vaulted",
+          "description": "Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T08:50:21Z",
+            "owner": "sumup-oss",
+            "repo": "terraform-provider-vaulted",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-env0",
+          "description": "Provider for env0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T15:33:44Z",
+            "owner": "env0",
+            "repo": "terraform-provider-env0",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-planetscale",
+          "description": "Terraform provider for PlanetScale (Vitess & Postgres).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:45:39Z",
+            "owner": "planetscale",
+            "repo": "terraform-provider-planetscale",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-sigsci",
+          "description": "Provider for Signal Sciences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-24T13:32:07Z",
+            "owner": "signalsciences",
+            "repo": "terraform-provider-sigsci",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-scp",
+          "description": "Provider for Splunk Cloud Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T23:46:45Z",
+            "owner": "splunk",
+            "repo": "terraform-provider-scp",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-scalr",
+          "description": "Provider for Scalr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:47:27Z",
+            "owner": "Scalr",
+            "repo": "terraform-provider-scalr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-qovery",
+          "description": "Provider for Qovery — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T13:23:48Z",
+            "owner": "Qovery",
+            "repo": "terraform-provider-qovery",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-phare",
+          "description": "Terraform provider for Phare.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T19:42:49Z",
+            "owner": "phare",
+            "repo": "terraform-provider-phare",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-devhelm",
+          "description": "Provider for DevHelm uptime monitoring — manage monitors, alert channels, and status pages as code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-15T20:15:57Z",
+            "owner": "devhelmhq",
+            "repo": "terraform-provider-devhelm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Vendor supported providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-provider-proxmox",
+          "description": "Terraform Proxmox provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:33:37Z",
+            "owner": "Telmate",
+            "repo": "terraform-provider-proxmox",
+            "stars": 2938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-docker",
+          "description": "Terraform Docker provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:59:25Z",
+            "owner": "kreuzwerker",
+            "repo": "terraform-provider-docker",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-minio",
+          "description": "Terraform provider for managing MinIO S3 buckets and IAM Users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:42:14Z",
+            "owner": "aminueza",
+            "repo": "terraform-provider-minio",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-terracurl",
+          "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T04:32:40Z",
+            "owner": "devops-rob",
+            "repo": "terraform-provider-terracurl",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-value",
+          "description": "Value Provider for Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-24T17:04:11Z",
+            "owner": "pseudo-dynamic",
+            "repo": "terraform-provider-value",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-coolify",
+          "description": "Terraform provider for Coolify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:33:09Z",
+            "owner": "coolify-terraform",
+            "repo": "terraform-provider-coolify",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-multipass",
+          "description": "Terraform provider for Multipass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T13:03:19Z",
+            "owner": "todoroff",
+            "repo": "terraform-provider-multipass",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-plancost",
+          "description": "Terraform provider for Azure cost estimation and cost guardrails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-11T02:55:35Z",
+            "owner": "plancost",
+            "repo": "terraform-provider-plancost",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-uname",
+          "description": "Uname Provider for Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-27T19:21:41Z",
+            "owner": "julienlevasseur",
+            "repo": "terraform-provider-uname",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provider-openrouter",
+          "description": "Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T20:21:20Z",
+            "owner": "cloudopsworks",
+            "repo": "terraform-provider-openrouter",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Community providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terratest",
+          "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:26:03Z",
+            "owner": "gruntwork-io",
+            "repo": "terratest",
+            "stars": 7943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-compliance",
+          "description": "BDD Testing for Terraform Files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T10:47:53Z",
+            "owner": "terraform-compliance",
+            "repo": "cli",
+            "stars": 1459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kitchen-terraform",
+          "description": "Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2024-10-22T14:32:15Z",
+            "owner": "newcontext-oss",
+            "repo": "kitchen-terraform",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform_validate",
+          "description": "Assists in the enforcement of user-defined standards in Terraform. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-01-06T17:14:56Z",
+            "owner": "elmundio87",
+            "repo": "terraform_validate",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clarity",
+          "description": "A declarative test framework for Terraform for unit testing. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-08T10:59:48Z",
+            "owner": "xchapter7x",
+            "repo": "clarity",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rspec-terraform",
+          "description": "RSpec tests for your Terraform modules. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-09-10T17:41:11Z",
+            "owner": "bsnape",
+            "repo": "rspec-terraform",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-bundle",
+          "description": "Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:11:29Z",
+            "owner": "hashicorp",
+            "repo": "terraform",
+            "stars": 49488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infracost",
+          "description": "Cloud cost estimates for Terraform in your CLI and pull requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T13:26:22Z",
+            "owner": "infracost",
+            "repo": "infracost",
+            "stars": 12443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terragrunt",
+          "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:44:23Z",
+            "owner": "gruntwork-io",
+            "repo": "terragrunt",
+            "stars": 9774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atlantis",
+          "description": "Unified workflow for collaborating on Terraform through GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:08:54Z",
+            "owner": "runatlantis",
+            "repo": "atlantis",
+            "stars": 9232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkov",
+          "description": "Terraform static analysis tool for terraform>=0.12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:17:26Z",
+            "owner": "bridgecrewio",
+            "repo": "checkov",
+            "stars": 8932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfsec",
+          "description": "Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-25T08:06:52Z",
+            "owner": "aquasecurity",
+            "repo": "tfsec",
+            "stars": 7026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tflint",
+          "description": "Terraform linter for detecting errors that can not be detected by",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T17:46:17Z",
+            "owner": "terraform-linters",
+            "repo": "tflint",
+            "stars": 5791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrascan",
+          "description": "Collection of security and best practice test for static code analysis of terraform templates",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-11-20T19:37:10Z",
+            "owner": "tenable",
+            "repo": "terrascan",
+            "stars": 5214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-cdk",
+          "description": "CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-12-10T14:12:01Z",
+            "owner": "hashicorp",
+            "repo": "terraform-cdk",
+            "stars": 5075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfenv",
+          "description": "Terraform version manager inspired by rbenv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T17:32:52Z",
+            "owner": "tfutils",
+            "repo": "tfenv",
+            "stars": 4962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-docs",
+          "description": "Quick utility to generate docs from terraform modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T06:52:24Z",
+            "owner": "terraform-docs",
+            "repo": "terraform-docs",
+            "stars": 4810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraforming",
+          "description": "Export existing AWS resources to Terraform style (tf, tfstate). Similar to . :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-12-11T08:18:50Z",
+            "owner": "dtan4",
+            "repo": "terraforming",
+            "stars": 4255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIaC",
+          "description": "Artificial Intelligence Infrastructure-as-Code Generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-24T10:56:24Z",
+            "owner": "gofireflyio",
+            "repo": "aiac",
+            "stars": 3785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-commit-terraform",
+          "description": "pre-commit git hooks for Terraform and Terragrunt: auto-format, validate, update docs, run security checks, estimate costs, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T23:55:28Z",
+            "owner": "antonbabenko",
+            "repo": "pre-commit-terraform",
+            "stars": 3755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terramate",
+          "description": "Tool for managing multiple Terraform stacks that comes with support for change detection and code generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T12:30:54Z",
+            "owner": "terramate-io",
+            "repo": "terramate",
+            "stars": 3619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rover",
+          "description": "Interactive Terraform state and configuration explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-30T03:34:48Z",
+            "owner": "im2nguyen",
+            "repo": "rover",
+            "stars": 3316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KICS",
+          "description": "Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Open Policy Agent",
+            "last_commit": "2026-08-12T15:54:06Z",
+            "owner": "Checkmarx",
+            "repo": "kics",
+            "stars": 2684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "driftctl",
+          "description": "Detect, track, and alert on infrastructure drift :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T19:58:53Z",
+            "owner": "snyk",
+            "repo": "driftctl",
+            "stars": 2654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "former2",
+          "description": "Generate terraform configuration from your existing resources within your AWS account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T22:53:58Z",
+            "owner": "iann0036",
+            "repo": "former2",
+            "stars": 2411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terracognita",
+          "description": "Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-02T12:57:33Z",
+            "owner": "cycloidio",
+            "repo": "terracognita",
+            "stars": 2383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blast radius",
+          "description": "Interactive visualizations of Terraform dependency graphs. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-14T12:38:03Z",
+            "owner": "28mm",
+            "repo": "blast-radius",
+            "stars": 2187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inframap",
+          "description": "Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-23T14:00:06Z",
+            "owner": "cycloidio",
+            "repo": "inframap",
+            "stars": 2054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraboard",
+          "description": "Web dashboard to inspect Terraform States.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-15T18:22:28Z",
+            "owner": "camptocamp",
+            "repo": "terraboard",
+            "stars": 2009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kapitan",
+          "description": "Generates Terraform/OpenTofu JSON and other infrastructure configuration from inventory-driven templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:24:39Z",
+            "owner": "kapicorp",
+            "repo": "kapitan",
+            "stars": 1923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aztfexport",
+          "description": "A tool to bring existing Azure resources under Terraform's management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T04:11:08Z",
+            "owner": "Azure",
+            "repo": "aztfexport",
+            "stars": 1905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-landscape",
+          "description": "(only 0.11 and earlier) Improve Terraform's plan output to be easier to read and understand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-03-20T18:03:51Z",
+            "owner": "coinbase",
+            "repo": "terraform-landscape",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terravision",
+          "description": "Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:52:31Z",
+            "owner": "patrickchugh",
+            "repo": "terravision",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tenv",
+          "description": "OpenTofu/Terraform/Terragrunt version manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T17:32:19Z",
+            "owner": "tofuutils",
+            "repo": "tenv",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-terraforming",
+          "description": "A command line utility to facilitate terraforming your existing Cloudflare resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T17:02:45Z",
+            "owner": "cloudflare",
+            "repo": "cf-terraforming",
+            "stars": 1390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atmos",
+          "description": "A universal tool that converts deep merged YAML to module inputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:01:16Z",
+            "owner": "cloudposse",
+            "repo": "atmos",
+            "stars": 1353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tftui",
+          "description": "A textual user interface for Terraform state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T18:55:17Z",
+            "owner": "idoavrah",
+            "repo": "terraform-tui",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmigrate",
+          "description": "A Terraform state migration tool for GitOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-04T13:10:37Z",
+            "owner": "minamijoyo",
+            "repo": "tfmigrate",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k2tf",
+          "description": "Kubernetes YAML to Terraform HCL converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-12T14:11:18Z",
+            "owner": "sl1pm4t",
+            "repo": "k2tf",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "layerform",
+          "description": "Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple \"staging\" environments. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-12-26T16:48:59Z",
+            "owner": "briefercloud",
+            "repo": "layerform",
+            "stars": 1208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gaia",
+          "description": "Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-30T11:59:10Z",
+            "owner": "gaia-app",
+            "repo": "gaia",
+            "stars": 1079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfk8s",
+          "description": "A tool for converting Kubernetes YAML manifests to Terraform HCL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-17T23:39:43Z",
+            "owner": "jrhouston",
+            "repo": "tfk8s",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terratag",
+          "description": "Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T11:21:09Z",
+            "owner": "env0",
+            "repo": "terratag",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yj",
+          "description": "CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-15T20:39:18Z",
+            "owner": "sclevine",
+            "repo": "yj",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "regula",
+          "description": "Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Open Policy Agent",
+            "last_commit": "2024-09-03T09:00:01Z",
+            "owner": "fugue",
+            "repo": "regula",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yor",
+          "description": "Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T04:59:09Z",
+            "owner": "bridgecrewio",
+            "repo": "yor",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pike",
+          "description": "Pike calculates the permissions or IAM policy required to build your Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-12T14:37:22Z",
+            "owner": "JamesWoolfenden",
+            "repo": "pike",
+            "stars": 927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfautomv",
+          "description": "Generate Terraform blocks automatically for painless refactoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T01:52:46Z",
+            "owner": "busser",
+            "repo": "tfautomv",
+            "stars": 899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless.tf - Doing serverless with Terraform",
+          "description": "serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. Read more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-19T14:56:19Z",
+            "owner": "antonbabenko",
+            "repo": "serverless.tf",
+            "stars": 879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirIAM",
+          "description": "AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T19:37:06Z",
+            "owner": "bridgecrewio",
+            "repo": "AirIAM",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iam-policy-json-to-terraform",
+          "description": "Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:18:56Z",
+            "owner": "flosell",
+            "repo": "iam-policy-json-to-terraform",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tads-boilerplate",
+          "description": "The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-02-06T08:50:52Z",
+            "owner": "thomvaill",
+            "repo": "tads-boilerplate",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws2tf",
+          "description": "automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:29:16Z",
+            "owner": "aws-samples",
+            "repo": "aws2tf",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terragrunt-atlantis-config",
+          "description": "Generate Atlantis config for Terragrunt projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-11-20T01:33:21Z",
+            "owner": "transcend-io",
+            "repo": "terragrunt-atlantis-config",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tf-summarize",
+          "description": "A command-line utility to print the summary of the terraform plan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-20T21:52:37Z",
+            "owner": "dineshba",
+            "repo": "tf-summarize",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pug",
+          "description": "The terminal user interface for terraform power users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-02T11:17:40Z",
+            "owner": "leg100",
+            "repo": "pug",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform-Visual",
+          "description": "A simple but powerful tool to visualize Terraform plan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-26T14:29:14Z",
+            "owner": "hieven",
+            "repo": "terraform-visual",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfupdate",
+          "description": "Update version constraints in your Terraform configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T07:42:43Z",
+            "owner": "minamijoyo",
+            "repo": "tfupdate",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcledit (minamijoyo)",
+          "description": "A command line editor for HCL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-05T15:32:45Z",
+            "owner": "minamijoyo",
+            "repo": "hcledit",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfcmt",
+          "description": "CLI to notify the result of plan and apply as Pull Request comment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:16:34Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "tfcmt",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json2hcl",
+          "description": "Convert JSON to HCL and vice versa. :ghost:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2025-06-25T12:17:53Z",
+            "owner": "kvz",
+            "repo": "json2hcl",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcl2json",
+          "description": "Convert hcl2 to json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T00:30:06Z",
+            "owner": "tmccombs",
+            "repo": "hcl2json",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threatcl",
+          "description": "Documenting your Threat Models with HCL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T10:41:12Z",
+            "owner": "threatcl",
+            "repo": "threatcl",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform.py",
+          "description": "Ansible dynamic inventory script for parsing Terraform state files. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-02-06T21:33:36Z",
+            "owner": "mantl",
+            "repo": "terraform.py",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astro",
+          "description": "Astro is a tool for managing multiple Terraform executions as a single command. :ghost:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-19T22:42:53Z",
+            "owner": "uber",
+            "repo": "astro",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfaction",
+          "description": "GitHub Actions collection for Opinionated Terraform Workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:01:37Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "tfaction",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-graph-beautifier",
+          "description": "Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-29T00:45:36Z",
+            "owner": "pcasteran",
+            "repo": "terraform-graph-beautifier",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shisho",
+          "description": "Lightweight static analyzer for Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-08-07T06:55:18Z",
+            "owner": "flatt-security",
+            "repo": "shisho",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-operator",
+          "description": "A Kubernetes CRD to handle Terraform operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-09T04:52:15Z",
+            "owner": "GalleyBytes",
+            "repo": "terraform-operator",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrahelp",
+          "description": "Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-24T10:40:07Z",
+            "owner": "opencredo",
+            "repo": "terrahelp",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmcp",
+          "description": "A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:27:32Z",
+            "owner": "nwiizo",
+            "repo": "tfmcp",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scenery",
+          "description": "Another Terraform plan output prettifier. :ghost: :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-03-08T01:40:22Z",
+            "owner": "dmlittle",
+            "repo": "scenery",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modules.tf-lambda",
+          "description": "Infrastructure as code generator from visual diagrams created with Cloudcraft.co to Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-20T07:25:57Z",
+            "owner": "antonbabenko",
+            "repo": "modules.tf-lambda",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipeform",
+          "description": "Terraform runtime TUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-12T00:04:00Z",
+            "owner": "magodo",
+            "repo": "pipeform",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terracost",
+          "description": "Cloud cost estimation for Terraform in your CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-07T09:45:07Z",
+            "owner": "cycloidio",
+            "repo": "terracost",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-iam-policy-validator",
+          "description": "CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-09T22:47:03Z",
+            "owner": "awslabs",
+            "repo": "terraform-iam-policy-validator",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-aws-clickops-notifier",
+          "description": "Get notified when actions are taken in the AWS Console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T09:47:19Z",
+            "owner": "cloudandthings",
+            "repo": "terraform-aws-clickops-notifier",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfschema",
+          "description": "Schema inspector for Terraform providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-04T12:58:20Z",
+            "owner": "minamijoyo",
+            "repo": "tfschema",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fogg",
+          "description": "A tool for eliminating toil in managing terraform repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T18:09:15Z",
+            "owner": "chanzuckerberg",
+            "repo": "fogg",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfscaffold",
+          "description": "Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-04-24T22:58:13Z",
+            "owner": "tfutils",
+            "repo": "tfscaffold",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tftarget",
+          "description": "CLI Tool to do interactively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-24T05:03:51Z",
+            "owner": "future-architect",
+            "repo": "tftarget",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdf",
+          "description": "HashiCorp plugin for the asdf version manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-19T00:56:55Z",
+            "owner": "asdf-community",
+            "repo": "asdf-hashicorp",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfsort",
+          "description": "CLI utility to sort Terraform variables and outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-01T17:03:06Z",
+            "owner": "AlexNabokikh",
+            "repo": "tfsort",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "validIaC",
+          "description": "ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-08T06:59:14Z",
+            "owner": "gofireflyio",
+            "repo": "validiac",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tofuenv",
+          "description": "OpenTofu version manager inspired by tfenv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-10T00:33:55Z",
+            "owner": "tofuutils",
+            "repo": "tofuenv",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfvar",
+          "description": "tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-11T11:41:15Z",
+            "owner": "shihanng",
+            "repo": "tfvar",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrahub",
+          "description": "TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy_dollar_sign:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2022-04-16T16:05:23Z",
+            "owner": "tfxor",
+            "repo": "terrahub",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmask",
+          "description": "Terraform utility to mask select output from and :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-12-15T05:22:57Z",
+            "owner": "cloudposse-archives",
+            "repo": "tfmask",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stacks",
+          "description": "Stacks, the Terraform code pre-processor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T04:14:19Z",
+            "owner": "cisco-open",
+            "repo": "stacks",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettyplan",
+          "description": "Prettyplan (available online here) is a small tool to help you view large Terraform plans with ease. :ghost:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-10-08T08:06:02Z",
+            "owner": "chrislewisdev",
+            "repo": "prettyplan",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redc",
+          "description": "Next-generation red team infrastructure automation tool built on Terraform, supporting multi-cloud deployment (Alibaba Cloud, Tencent Cloud, AWS, etc.) with one-command deployment for creating, configuring, and destroying red team environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T10:00:43Z",
+            "owner": "wgpsec",
+            "repo": "redc",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-cleaner",
+          "description": "Tiny utility which detects unused variables in your terraform modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-31T13:52:27Z",
+            "owner": "sylwit",
+            "repo": "terraform-cleaner",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfjson",
+          "description": "Utility to read in a Terraform plan file and dump it out in JSON. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-09-09T18:14:04Z",
+            "owner": "palantir",
+            "repo": "tfjson",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tf-profile",
+          "description": "Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-15T09:41:14Z",
+            "owner": "datarootsio",
+            "repo": "tf-profile",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmv",
+          "description": "Rename Terraform resources and generate moved blocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:04:13Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "tfmv",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tftree",
+          "description": "Display your Terraform module call stack in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T06:27:30Z",
+            "owner": "busser",
+            "repo": "tftree",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-plan-parser",
+          "description": "Command line utility and JavaScript API for parsing stdout from and converting it to JSON. :ghost:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T19:03:15Z",
+            "owner": "lifeomic",
+            "repo": "terraform-plan-parser",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraformize",
+          "description": "Apply\\Destroy Terraform modules via a simple REST API endpoint. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-04T15:05:56Z",
+            "owner": "naorlivne",
+            "repo": "terraformize",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfproviderlint",
+          "description": "Terraform Provider Lint Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-08T19:10:41Z",
+            "owner": "bflad",
+            "repo": "tfproviderlint",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coretech/terrafile",
+          "description": "Systematically manage external modules from Github for use in Terraform (written in Go). :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-02-16T14:08:51Z",
+            "owner": "coretech",
+            "repo": "terrafile",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-repl",
+          "description": "A terraform console wrapper for a better interactive console experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-30T18:53:19Z",
+            "owner": "paololazzari",
+            "repo": "terraform-repl",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfnctl",
+          "description": "Cfnctl brings the Terraform cli experience to AWS Cloudformation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-14T09:59:07Z",
+            "owner": "rogerwelin",
+            "repo": "cfnctl",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrars",
+          "description": "Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-21T19:51:53Z",
+            "owner": "andrewbaxter",
+            "repo": "terrars",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-terraform",
+          "description": "Simple Ruby wrapper for invoking terraform commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T07:02:44Z",
+            "owner": "infrablocks",
+            "repo": "ruby_terraform",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sato",
+          "description": "Sato helps you convert your legacy Cloudformation into Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T03:16:59Z",
+            "owner": "JamesWoolfenden",
+            "repo": "sato",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgf",
+          "description": "Terragrunt frontend for executing Terragrunt/Terraform through Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:30:01Z",
+            "owner": "coveooss",
+            "repo": "tgf",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pretf",
+          "description": "drop-in Terraform wrapper that generates Terraform configuration with Python. See pretf documentation :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-11T18:48:13Z",
+            "owner": "raymondbutcher",
+            "repo": "pretf",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfedit",
+          "description": "A refactoring tool for Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-06T12:35:27Z",
+            "owner": "minamijoyo",
+            "repo": "tfedit",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hclgrep",
+          "description": "Syntax based grep for HCL(v2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-07T08:21:19Z",
+            "owner": "magodo",
+            "repo": "hclgrep",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfgen",
+          "description": "Terraform code generator for consistent codebase and DRY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-11T02:45:10Z",
+            "owner": "0xDones",
+            "repo": "tfgen",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfprovidercheck",
+          "description": "CLI to prevent malicious Terraform Providers from being executed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:57:01Z",
+            "owner": "suzuki-shunsuke",
+            "repo": "tfprovidercheck",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tpm",
+          "description": "A package manager for Terraform providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-21T14:49:01Z",
+            "owner": "Madh93",
+            "repo": "tpm",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrastate",
+          "description": "Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-08T07:08:14Z",
+            "owner": "rohinivsenthil",
+            "repo": "terrastate",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tau",
+          "description": "Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-03-31T10:47:06Z",
+            "owner": "avinor",
+            "repo": "tau",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfgpt",
+          "description": "A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-01T18:48:30Z",
+            "owner": "flavius-dinu",
+            "repo": "tfgpt",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drifthound",
+          "description": "Continuous infrastructure drift detection with historical tracking and notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-23T09:36:03Z",
+            "owner": "drifthoundhq",
+            "repo": "drifthound",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-diff",
+          "description": "Always know where you need to run Terraform plan & apply!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-18T11:38:27Z",
+            "owner": "contentful-labs",
+            "repo": "terraform-diff",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraformsh",
+          "description": "A wrapper in Bash for easier CLI UX and DRY hierarchical configs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-06T06:50:24Z",
+            "owner": "pwillis-els",
+            "repo": "terraformsh",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-audit",
+          "description": "AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T08:53:31Z",
+            "owner": "gebalamariusz",
+            "repo": "cloud-audit",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfocus",
+          "description": "tfocus is a super interactive tool for selecting and executing Terraform plan/apply on specific resources. Think of it as an \"emergency tool\" - not for everyday use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-19T01:41:04Z",
+            "owner": "nwiizo",
+            "repo": "tfocus",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "travelgrunt",
+          "description": "cd inside [mono]repos without fatigue!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-04T15:12:13Z",
+            "owner": "ivanilves",
+            "repo": "travelgrunt",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrap-cli",
+          "description": "Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-05T10:17:41Z",
+            "owner": "sirrend",
+            "repo": "terrap-cli",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xterrafile",
+          "description": "Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-06-11T13:46:12Z",
+            "owner": "devopsmakers",
+            "repo": "xterrafile",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraDepot",
+          "description": "Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-15T22:04:41Z",
+            "owner": "derBroBro",
+            "repo": "TerraDepot",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcledit (mercari)",
+          "description": "Go package to edit HCL configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-04T01:07:23Z",
+            "owner": "mercari",
+            "repo": "hcledit",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "para",
+          "description": "The missing 3rd-party plugin manager and a \"Swiss army knife\" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-09-09T16:25:54Z",
+            "owner": "paraterraform",
+            "repo": "para",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-terraform",
+          "description": "pytest terraform plugin with fixtures and offline replay support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T21:35:30Z",
+            "owner": "cloud-custodian",
+            "repo": "pytest-terraform",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "renovate-config",
+          "description": "Sharable Config Presets for Renovatebot, especially useful for DevOps folks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T06:56:24Z",
+            "owner": "SpotOnInc",
+            "repo": "renovate-config",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfimport",
+          "description": "CLI tool to automate importing existing infrastructure innto tfstate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-02T10:53:29Z",
+            "owner": "coolapso",
+            "repo": "tfimport",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terramagic",
+          "description": "Wizard tool for create folders and terraform files automated, written in Python !",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T20:05:39Z",
+            "owner": "miltlima",
+            "repo": "terramagic",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfreveal",
+          "description": "A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T05:17:08Z",
+            "owner": "breml",
+            "repo": "tfreveal",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfvaultenv",
+          "description": "tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-29T15:30:54Z",
+            "owner": "oulman",
+            "repo": "tfvaultenv",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-terrafile",
+          "description": "Systematically manage external modules from Github for use in Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-17T08:47:23Z",
+            "owner": "claranet",
+            "repo": "python-terrafile",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraboot",
+          "description": "DSL to generate a terraform configuration and run it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-03-19T09:18:37Z",
+            "owner": "MastodonC",
+            "repo": "terraboot",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzy-terraform-rm",
+          "description": "A fuzzy-finder command-line tool for removing resources from terraform state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-21T16:52:36Z",
+            "owner": "paololazzari",
+            "repo": "fuzzy-terraform-rm",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "platform-skills",
+          "description": "AI-assisted field handbook for Terraform: IAM least privilege review, blast radius analysis, state impact, provider constraints, and rollback planning. Works as a Claude, Codex, Cursor, and Copilot plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:43:08Z",
+            "owner": "nitinjain999",
+            "repo": "platform-skills",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraeasy",
+          "description": "Easy Terraform wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-18T12:13:09Z",
+            "owner": "jaceq",
+            "repo": "terraeasy",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmigrator",
+          "description": "Go library and CLI to migrate Terraform Configuration and State",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-11-23T04:35:03Z",
+            "owner": "tfmigrator",
+            "repo": "cli",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scratchrelaxtv",
+          "description": "Simple Python tool to help with module development - extract vars from to generate and make module usage stub from .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-13T11:09:50Z",
+            "owner": "YakDriver",
+            "repo": "scratchrelaxtv",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tf-why",
+          "description": "CLI tool that attributes Terraform drift to the AWS actor who caused it, via CloudTrail lookup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T04:49:13Z",
+            "owner": "Raj-glitch-max",
+            "repo": "tf.why",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettyplan for TF 0.12+",
+          "description": "Prettyplan for TF 0.12+ (available online here) is a small tool to help you view large Terraform plans with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-08-27T07:22:49Z",
+            "owner": "cloudandthings",
+            "repo": "terraform-pretty-plan",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfrepl",
+          "description": "A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-06-11T20:20:52Z",
+            "owner": "ysoftwareab",
+            "repo": "tfrepl",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trupositive",
+          "description": "Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-27T11:24:24Z",
+            "owner": "trupositive-ai",
+            "repo": "trupositive",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfmake",
+          "description": "Automating Terraform with the power of make.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-29T19:22:16Z",
+            "owner": "tfmake",
+            "repo": "tfmake",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flora",
+          "description": "Terraform version manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-07T21:28:41Z",
+            "owner": "ketchoop",
+            "repo": "flora",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terrascope",
+          "description": "Build orchestrator for terraform monorepos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:40:50Z",
+            "owner": "spilliams",
+            "repo": "terrascope",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-provisioner",
+          "description": "Tool for managing multiple provisions of the same Terraform scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-08-06T16:18:06Z",
+            "owner": "shuaibiyy",
+            "repo": "terraform-provisioner",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hq",
+          "description": "command-line HCL processor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-23T01:14:42Z",
+            "owner": "miller-time",
+            "repo": "hq",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcldump",
+          "description": "Dump the HCL (v2) abstract syntax tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-27T10:53:28Z",
+            "owner": "magodo",
+            "repo": "hcldump",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraformer",
+          "description": "CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T21:34:15Z",
+            "owner": "chenrui333",
+            "repo": "terraformer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tf-init-booster",
+          "description": "A Pre-terraform routine that speedups terraform modules download for bulky blueprints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T21:03:03Z",
+            "owner": "hayorov",
+            "repo": "terraform-init-booster",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfwrapper",
+          "description": "Rubygem providing rake tasks for running Hashicorp Terraform sanely.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-01-15T16:08:11Z",
+            "owner": "manheim",
+            "repo": "tfwrapper",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-credentials-vault",
+          "description": "A Terraform \"credentials helper\" plugin that allows providing credentials for Terraform-native services (private module registries, Terraform Cloud, etc) via environment variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-06-09T22:42:46Z",
+            "owner": "oulman",
+            "repo": "terraform-credentials-vault",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-rake-tasks",
+          "description": "Shared Rake tasks for managing terraform plans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-18T00:23:33Z",
+            "owner": "gina-alaska",
+            "repo": "terraform-rake-tasks",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zephy",
+          "description": "Compare Azure resources deployed in a subscription against resources managed by Terraform Enterprise (HCP & Selfhosted) workspaces when your cloud's resource tagging strategy is insufficient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-15T09:23:08Z",
+            "owner": "henrybravo",
+            "repo": "zephy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dxw/terrafile",
+          "description": "Systematically manage external modules from Github for use in Terraform (written in Ruby).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-21T00:06:15Z",
+            "owner": "dxw",
+            "repo": "terrafile",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terradozer",
+          "description": "Terraform destroy without configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T04:51:33Z",
+            "owner": "chenrui333",
+            "repo": "terradozer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-ai-skills",
+          "description": "AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-03-20T12:40:05Z",
+            "owner": "anmolnagpal",
+            "repo": "terraform-ai-skills",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shieldly",
+          "description": "AI-powered security analysis for Terraform-generated IAM policies and CloudFormation, explaining why a permission is risky and how to fix it. Free tier, CLI and GitHub Action.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T08:33:49Z",
+            "owner": "shieldly-io",
+            "repo": "cli",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "setup-terraform",
+          "description": "Sets up Terraform CLI in your GitHub Actions workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T18:02:43Z",
+            "owner": "hashicorp",
+            "repo": "setup-terraform",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-plan",
+          "description": "GitHub Action to run Terraform plan and add a comment with the changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T04:38:08Z",
+            "owner": "cds-snc",
+            "repo": "terraform-plan",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-risk-assessor",
+          "description": "GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T07:12:19Z",
+            "owner": "Liam-Johnston",
+            "repo": "terraform-risk-assessor",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "CI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyhcl",
+          "description": "HCL parser in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-20T03:05:37Z",
+            "owner": "virtuald",
+            "repo": "pyhcl",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-hcl2",
+          "description": "HCL2 parser in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T17:41:50Z",
+            "owner": "amplify-education",
+            "repo": "python-hcl2",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcl-rs",
+          "description": "HCL parsing and encoding libraries for rust with serde support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T18:46:30Z",
+            "owner": "martinohmann",
+            "repo": "hcl-rs",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree-sitter-hcl",
+          "description": "HCL grammar for tree-sitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-01-17T14:42:48Z",
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-hcl",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcl4j",
+          "description": "HCL parser in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-28T23:09:05Z",
+            "owner": "wondrify",
+            "repo": "hcl4j",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rhcl",
+          "description": "Pure Ruby HCL parser :skull:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2014-09-21T08:10:03Z",
+            "owner": "winebarrel",
+            "repo": "rhcl",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nu_plugin_hcl",
+          "description": "HCL parser plugin for Nushell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-18T08:46:29Z",
+            "owner": "Yethal",
+            "repo": "nu_plugin_hcl",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terraform Generator",
+          "description": "Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T11:39:33Z",
+            "owner": "sudokar",
+            "repo": "generator-tf-module",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solo-Engineer Stack",
+          "description": "Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-06-22T15:45:00Z",
+            "owner": "sarmakska",
+            "repo": "terraform-stack",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Burrito",
+          "description": "TACoS Kubernetes Operator - \"ArgoCD for Terraform\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:50:23Z",
+            "owner": "padok-team",
+            "repo": "burrito",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTF",
+          "description": "Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T07:44:39Z",
+            "owner": "leg100",
+            "repo": "otf",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lynx",
+          "description": "Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-06-18T22:03:46Z",
+            "owner": "Clivern",
+            "repo": "Lynx",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack-Lifecycle-Deployment",
+          "description": "OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-04-21T20:53:52Z",
+            "owner": "D10S0VSkY-OSS",
+            "repo": "Stack-Lifecycle-Deployment",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-concierge",
+          "description": "Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-19T21:04:06Z",
+            "owner": "dragondrop-cloud",
+            "repo": "cloud-concierge",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Self-hosted Terraform Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terraform-enterprise-migrator",
+          "description": "Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-30T02:23:24Z",
+            "owner": "sil-org",
+            "repo": "tfc-ops",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-enterprise-cli",
+          "description": "Terraform Enterprise Command Line Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-05-23T23:30:41Z",
+            "owner": "skierkowski",
+            "repo": "terraform-enterprise-cli",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-enterprise-client",
+          "description": "Terraform Enterprise API Ruby Client and Command Line tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-05-27T04:12:16Z",
+            "owner": "skierkowski",
+            "repo": "terraform-enterprise-client",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Terraform Enterprise Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terraform-ls",
+          "description": "(Terraform Language Server)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T15:40:57Z",
+            "owner": "hashicorp",
+            "repo": "terraform-ls",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim-Terraform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-05-24T19:17:27Z",
+            "owner": "hashivim",
+            "repo": "vim-terraform",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform-lsp",
+          "description": "(Language Server Protocol for Terraform)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-06T23:55:37Z",
+            "owner": "juliosueiras",
+            "repo": "terraform-lsp",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim-Terraform-Completion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2022-03-04T13:52:42Z",
+            "owner": "juliosueiras",
+            "repo": "vim-terraform-completion",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs terraform-mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-11-15T22:11:02Z",
+            "owner": "hcl-emacs",
+            "repo": "terraform-mode",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-hcl",
+          "description": "Syntax highlighting for HCL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-01-10T14:32:04Z",
+            "owner": "jvirtanen",
+            "repo": "vim-hcl",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:59.910Z",
+    "original_repository": "shuaibiyy/awesome-terraform",
+    "original_repository_sha": "9ef4aca3cebade4b512914e8a9088173da2ee2b1",
+    "enhanced_repository": "enhansome/enhansome-terraform",
+    "enhanced_repository_description": null,
+    "title": "Awesome Terraform with stars"
+  }
+}
