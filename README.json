@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:20:54Z",
+            "last_commit": "2026-08-18T12:59:06Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49466
+            "stars": 49477
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T05:56:41Z",
             "owner": "antonbabenko",
             "repo": "terraform-skill",
-            "stars": 2278
+            "stars": 2284
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-14T20:49:44Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-eks",
-            "stars": 4998
+            "stars": 4997
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-06T16:27:01Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-vpc",
-            "stars": 3256
+            "stars": 3255
           }
         },
         {
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-07T22:24:48Z",
+            "last_commit": "2026-08-17T20:21:54Z",
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2050
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-09T14:02:42Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-ecs",
-            "stars": 676
+            "stars": 674
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-06T16:25:53Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-security-group",
-            "stars": 592
+            "stars": 591
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-06T19:30:51Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-s3-bucket",
-            "stars": 582
+            "stars": 581
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-01-08T21:58:19Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-alb",
-            "stars": 466
+            "stars": 465
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-03T13:58:37Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-autoscaling",
-            "stars": 310
+            "stars": 309
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2026-08-16T01:36:20Z",
             "owner": "terralist",
             "repo": "terralist",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -1047,7 +1047,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T12:53:51Z",
+            "last_commit": "2026-08-18T13:26:27Z",
             "owner": "hashicorp",
             "repo": "terraform-provider-aws",
             "stars": 11045
@@ -1061,10 +1061,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T02:08:29Z",
+            "last_commit": "2026-08-18T13:20:20Z",
             "owner": "hashicorp",
             "repo": "terraform-provider-azurerm",
-            "stars": 4968
+            "stars": 4969
           }
         },
         {
@@ -1075,7 +1075,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T02:27:23Z",
+            "last_commit": "2026-08-18T02:24:12Z",
             "owner": "hashicorp",
             "repo": "terraform-provider-google",
             "stars": 2640
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-07-10T17:16:36Z",
             "owner": "hashicorp",
             "repo": "terraform-provider-helm",
-            "stars": 1076
+            "stars": 1077
           }
         },
         {
@@ -1117,7 +1117,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:34:39Z",
+            "last_commit": "2026-08-18T07:41:29Z",
             "owner": "vmware",
             "repo": "terraform-provider-vsphere",
             "stars": 672
@@ -1165,10 +1165,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:38:59Z",
+            "last_commit": "2026-08-17T21:08:00Z",
             "owner": "integrations",
             "repo": "terraform-provider-github",
-            "stars": 1156
+            "stars": 1157
           }
         },
         {
@@ -1193,10 +1193,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:49:40Z",
+            "last_commit": "2026-08-17T22:11:04Z",
             "owner": "hetznercloud",
             "repo": "terraform-provider-hcloud",
-            "stars": 731
+            "stars": 732
           }
         },
         {
@@ -1207,7 +1207,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:13:26Z",
+            "last_commit": "2026-08-18T13:05:31Z",
             "owner": "snowflakedb",
             "repo": "terraform-provider-snowflake",
             "stars": 692
@@ -1221,7 +1221,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:12:12Z",
+            "last_commit": "2026-08-18T09:56:12Z",
             "owner": "aliyun",
             "repo": "terraform-provider-alicloud",
             "stars": 659
@@ -1235,7 +1235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:37:18Z",
+            "last_commit": "2026-08-18T06:49:03Z",
             "owner": "digitalocean",
             "repo": "terraform-provider-digitalocean",
             "stars": 568
@@ -1263,7 +1263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T12:57:36Z",
+            "last_commit": "2026-08-18T12:57:14Z",
             "owner": "DataDog",
             "repo": "terraform-provider-datadog",
             "stars": 465
@@ -1305,7 +1305,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-05T06:05:14Z",
+            "last_commit": "2026-08-18T05:43:02Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
             "stars": 360
@@ -1347,7 +1347,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T05:06:03Z",
+            "last_commit": "2026-08-18T09:47:19Z",
             "owner": "jfrog",
             "repo": "terraform-provider-artifactory",
             "stars": 287
@@ -1375,7 +1375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T06:57:27Z",
+            "last_commit": "2026-08-18T00:57:29Z",
             "owner": "Azure",
             "repo": "terraform-provider-azapi",
             "stars": 243
@@ -1389,7 +1389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:47:41Z",
+            "last_commit": "2026-08-18T09:16:44Z",
             "owner": "elastic",
             "repo": "terraform-provider-elasticstack",
             "stars": 208
@@ -1557,7 +1557,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T04:42:41Z",
+            "last_commit": "2026-08-18T07:52:27Z",
             "owner": "coder",
             "repo": "terraform-provider-coder",
             "stars": 60
@@ -1585,7 +1585,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T02:39:41Z",
+            "last_commit": "2026-08-18T06:04:46Z",
             "owner": "confluentinc",
             "repo": "terraform-provider-confluent",
             "stars": 58
@@ -1599,7 +1599,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:04:52Z",
+            "last_commit": "2026-08-18T08:10:36Z",
             "owner": "buildkite",
             "repo": "terraform-provider-buildkite",
             "stars": 56
@@ -1655,7 +1655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:12:21Z",
+            "last_commit": "2026-08-18T11:53:32Z",
             "owner": "env0",
             "repo": "terraform-provider-env0",
             "stars": 39
@@ -1669,7 +1669,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T22:50:49Z",
+            "last_commit": "2026-08-18T00:06:53Z",
             "owner": "planetscale",
             "repo": "terraform-provider-planetscale",
             "stars": 29
@@ -1711,7 +1711,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T10:35:18Z",
+            "last_commit": "2026-08-18T12:47:45Z",
             "owner": "Scalr",
             "repo": "terraform-provider-scalr",
             "stars": 19
@@ -1725,7 +1725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:59:34Z",
+            "last_commit": "2026-08-18T11:54:21Z",
             "owner": "Qovery",
             "repo": "terraform-provider-qovery",
             "stars": 18
@@ -1773,10 +1773,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T18:34:31Z",
+            "last_commit": "2026-08-17T18:45:18Z",
             "owner": "Telmate",
             "repo": "terraform-provider-proxmox",
-            "stars": 2938
+            "stars": 2940
           }
         },
         {
@@ -1801,7 +1801,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T06:55:33Z",
+            "last_commit": "2026-08-17T18:57:38Z",
             "owner": "aminueza",
             "repo": "terraform-provider-minio",
             "stars": 341
@@ -2009,10 +2009,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:20:54Z",
+            "last_commit": "2026-08-18T12:59:06Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49466
+            "stars": 49477
           }
         },
         {
@@ -2023,10 +2023,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T13:26:22Z",
+            "last_commit": "2026-08-18T07:05:58Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12460
+            "stars": 12464
           }
         },
         {
@@ -2037,10 +2037,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:44:32Z",
+            "last_commit": "2026-08-18T13:16:28Z",
             "owner": "gruntwork-io",
             "repo": "terragrunt",
-            "stars": 9782
+            "stars": 9784
           }
         },
         {
@@ -2051,10 +2051,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T05:06:39Z",
+            "last_commit": "2026-08-18T04:03:01Z",
             "owner": "runatlantis",
             "repo": "atlantis",
-            "stars": 9238
+            "stars": 9239
           }
         },
         {
@@ -2065,10 +2065,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:30:38Z",
+            "last_commit": "2026-08-18T13:10:05Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8947
+            "stars": 8949
           }
         },
         {
@@ -2096,7 +2096,7 @@
             "last_commit": "2026-08-15T17:38:13Z",
             "owner": "terraform-linters",
             "repo": "tflint",
-            "stars": 5790
+            "stars": 5793
           }
         },
         {
@@ -2110,7 +2110,7 @@
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5213
+            "stars": 5212
           }
         },
         {
@@ -2191,7 +2191,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T22:13:55Z",
+            "last_commit": "2026-08-18T10:46:52Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
             "stars": 3757
@@ -2205,7 +2205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-31T12:30:54Z",
+            "last_commit": "2026-08-18T12:54:16Z",
             "owner": "terramate-io",
             "repo": "terramate",
             "stars": 3622
@@ -2233,10 +2233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-14T14:00:59Z",
+            "last_commit": "2026-08-18T12:32:24Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2686
+            "stars": 2687
           }
         },
         {
@@ -2334,7 +2334,7 @@
             "last_commit": "2026-08-09T08:24:39Z",
             "owner": "kapicorp",
             "repo": "kapitan",
-            "stars": 1924
+            "stars": 1925
           }
         },
         {
@@ -2387,10 +2387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:03:43Z",
+            "last_commit": "2026-08-18T09:50:34Z",
             "owner": "tofuutils",
             "repo": "tenv",
-            "stars": 1429
+            "stars": 1430
           }
         },
         {
@@ -2415,7 +2415,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:23:26Z",
+            "last_commit": "2026-08-18T12:51:06Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1355
@@ -2530,7 +2530,7 @@
             "last_commit": "2026-05-15T20:39:18Z",
             "owner": "sclevine",
             "repo": "yj",
-            "stars": 1051
+            "stars": 1052
           }
         },
         {
@@ -2583,10 +2583,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:52:28Z",
+            "last_commit": "2026-08-18T01:45:40Z",
             "owner": "busser",
             "repo": "tfautomv",
-            "stars": 899
+            "stars": 898
           }
         },
         {
@@ -2684,7 +2684,7 @@
             "last_commit": "2026-03-20T21:52:37Z",
             "owner": "dineshba",
             "repo": "tf-summarize",
-            "stars": 727
+            "stars": 728
           }
         },
         {
@@ -2751,7 +2751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T01:27:06Z",
+            "last_commit": "2026-08-18T10:41:51Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfcmt",
             "stars": 546
@@ -2835,7 +2835,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:15:43Z",
+            "last_commit": "2026-08-17T21:53:26Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfaction",
             "stars": 397
@@ -3017,7 +3017,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T18:09:15Z",
+            "last_commit": "2026-08-17T15:21:23Z",
             "owner": "chanzuckerberg",
             "repo": "fogg",
             "stars": 307
@@ -3241,7 +3241,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T01:58:36Z",
+            "last_commit": "2026-08-18T00:43:50Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfmv",
             "stars": 160
@@ -3395,7 +3395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:37:48Z",
+            "last_commit": "2026-08-17T19:05:53Z",
             "owner": "coveooss",
             "repo": "tgf",
             "stars": 108
@@ -3465,7 +3465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T00:47:41Z",
+            "last_commit": "2026-08-18T02:44:52Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfprovidercheck",
             "stars": 89
@@ -3703,7 +3703,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T06:56:24Z",
+            "last_commit": "2026-08-18T11:50:23Z",
             "owner": "SpotOnInc",
             "repo": "renovate-config",
             "stars": 55
@@ -3745,7 +3745,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-24T05:17:08Z",
+            "last_commit": "2026-08-17T20:07:08Z",
             "owner": "breml",
             "repo": "tfreveal",
             "stars": 47
@@ -4160,7 +4160,7 @@
             "last_commit": "2026-07-27T18:02:43Z",
             "owner": "hashicorp",
             "repo": "setup-terraform",
-            "stars": 1582
+            "stars": 1581
           }
         },
         {
@@ -4171,7 +4171,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T13:51:22Z",
+            "last_commit": "2026-08-17T13:55:28Z",
             "owner": "cds-snc",
             "repo": "terraform-plan",
             "stars": 64
@@ -4236,7 +4236,7 @@
             "last_commit": "2026-08-09T18:46:30Z",
             "owner": "martinohmann",
             "repo": "hcl-rs",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -4343,7 +4343,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:22:42Z",
+            "last_commit": "2026-08-18T08:55:21Z",
             "owner": "padok-team",
             "repo": "burrito",
             "stars": 750
@@ -4553,7 +4553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:24:04.470Z",
+    "last_updated": "2026-08-18T13:26:32.450Z",
     "original_repository": "shuaibiyy/awesome-terraform",
     "original_repository_sha": "9ef4aca3cebade4b512914e8a9088173da2ee2b1",
     "enhanced_repository": "enhansome/enhansome-terraform",
