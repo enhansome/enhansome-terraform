@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-18T12:59:06Z",
+            "last_commit": "2026-08-19T12:52:24Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49477
+            "stars": 49486
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135169266,
             "language": null,
             "last_commit": "2026-07-03T05:56:41Z",
             "owner": "antonbabenko",
             "repo": "terraform-skill",
-            "stars": 2284
+            "stars": 2285
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185387357,
             "language": "HCL",
             "last_commit": "2022-02-09T08:56:45Z",
             "owner": "antonbabenko",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164487114,
             "language": "Shell",
             "last_commit": "2026-05-08T07:40:56Z",
             "owner": "antonbabenko",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194389960,
             "language": null,
             "last_commit": "2026-07-29T14:43:58Z",
             "owner": "antonbabenko",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247148794,
             "language": "HCL",
             "last_commit": "2022-04-28T11:54:02Z",
             "owner": "terraform-aws-modules",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127806979,
             "language": "Python",
             "last_commit": "2020-04-03T12:58:21Z",
             "owner": "dohsimpson",
@@ -105,11 +112,6 @@
       "title": "Community"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tutorials and Blog Posts"
-    },
-    {
       "description": "For more Community Modules not listed here please see the Terraform Module Registry.",
       "items": [
         {
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136401408,
             "language": "HCL",
             "last_commit": "2026-08-14T20:49:44Z",
             "owner": "terraform-aws-modules",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101660954,
             "language": "HCL",
             "last_commit": "2026-08-06T16:27:01Z",
             "owner": "terraform-aws-modules",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61223609,
             "language": "HCL",
             "last_commit": "2023-04-07T22:43:12Z",
             "owner": "segmentio",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99544448,
             "language": "HCL",
             "last_commit": "2026-08-17T20:21:54Z",
             "owner": "poseidon",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121206877,
             "language": "HCL",
             "last_commit": "2026-07-08T09:36:36Z",
             "owner": "nozaq",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268826962,
             "language": "HCL",
             "last_commit": "2026-08-06T16:22:58Z",
             "owner": "terraform-aws-modules",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136937187,
             "language": "HCL",
             "last_commit": "2026-07-10T17:23:18Z",
             "owner": "terraform-google-modules",
@@ -217,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103301797,
             "language": "HCL",
             "last_commit": "2026-08-06T16:49:00Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-rds",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -231,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103173578,
             "language": "HCL",
             "last_commit": "2026-03-26T19:54:47Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-ec2-instance",
-            "stars": 810
+            "stars": 809
           }
         },
         {
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161867918,
             "language": "HCL",
             "last_commit": "2026-03-05T13:40:32Z",
             "owner": "kbst",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104857991,
             "language": "HCL",
             "last_commit": "2026-08-09T14:02:42Z",
             "owner": "terraform-aws-modules",
@@ -273,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104858225,
             "language": "HCL",
             "last_commit": "2026-08-06T16:25:53Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-security-group",
-            "stars": 591
+            "stars": 592
           }
         },
         {
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150020971,
             "language": "HCL",
             "last_commit": "2026-08-06T19:30:51Z",
             "owner": "terraform-aws-modules",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134884578,
             "language": "HCL",
             "last_commit": "2026-01-08T21:57:59Z",
             "owner": "terraform-aws-modules",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120632979,
             "language": "Python",
             "last_commit": "2026-08-06T20:03:30Z",
             "owner": "terraform-aws-modules",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104858991,
             "language": "HCL",
             "last_commit": "2026-01-08T21:58:19Z",
             "owner": "terraform-aws-modules",
@@ -343,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104859501,
             "language": "HCL",
             "last_commit": "2026-08-06T19:16:00Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-rds-aurora",
-            "stars": 418
+            "stars": 419
           }
         },
         {
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160551888,
             "language": "HCL",
             "last_commit": "2024-08-04T10:19:37Z",
             "owner": "nix-community",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103510170,
             "language": "HCL",
             "last_commit": "2026-08-03T13:58:37Z",
             "owner": "terraform-aws-modules",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103592135,
             "language": "HCL",
             "last_commit": "2023-11-15T03:04:52Z",
             "owner": "cloudposse-archives",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128962784,
             "language": "HCL",
             "last_commit": "2024-09-19T14:41:16Z",
             "owner": "joshuamkite",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101188728,
             "language": "HCL",
             "last_commit": "2026-07-10T18:25:10Z",
             "owner": "cloudposse",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47260138,
             "language": "HCL",
             "last_commit": "2023-03-30T09:15:52Z",
             "owner": "terraform-community-modules",
@@ -441,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234060159,
             "language": "HCL",
             "last_commit": "2026-08-06T17:03:17Z",
             "owner": "terraform-aws-modules",
@@ -455,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347674259,
             "language": "HCL",
             "last_commit": "2026-08-11T06:37:34Z",
             "owner": "terraform-aws-modules",
@@ -469,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273070711,
             "language": "HCL",
             "last_commit": "2026-08-06T16:51:51Z",
             "owner": "terraform-aws-modules",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101637763,
             "language": "HCL",
             "last_commit": "2025-10-01T03:26:06Z",
             "owner": "cloudposse",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103509519,
             "language": "HCL",
             "last_commit": "2025-03-29T23:07:40Z",
             "owner": "terraform-aws-modules",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278433073,
             "language": "HCL",
             "last_commit": "2026-08-16T14:00:09Z",
             "owner": "adinhodovic",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248966249,
             "language": "HCL",
             "last_commit": "2026-07-31T09:08:57Z",
             "owner": "terraform-aws-modules",
@@ -539,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104858793,
             "language": "HCL",
             "last_commit": "2026-08-06T16:27:09Z",
             "owner": "terraform-aws-modules",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58151536,
             "language": "HCL",
             "last_commit": "2017-10-08T00:44:13Z",
             "owner": "shuaibiyy",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95104794,
             "language": "HCL",
             "last_commit": "2026-08-15T18:28:52Z",
             "owner": "cloudposse",
@@ -581,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104858604,
             "language": "HCL",
             "last_commit": "2026-08-06T16:38:05Z",
             "owner": "terraform-aws-modules",
@@ -595,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46007776,
             "language": "HCL",
             "last_commit": "2023-06-20T20:28:38Z",
             "owner": "azavea",
@@ -609,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402749905,
             "language": "HCL",
             "last_commit": "2025-10-21T08:58:49Z",
             "owner": "terraform-aws-modules",
@@ -623,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304048443,
             "language": "HCL",
             "last_commit": "2026-07-06T14:01:19Z",
             "owner": "terraform-aws-modules",
@@ -637,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397028556,
             "language": "HCL",
             "last_commit": "2026-08-06T18:42:56Z",
             "owner": "terraform-aws-modules",
@@ -651,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326849201,
             "language": "HCL",
             "last_commit": "2026-08-06T16:28:57Z",
             "owner": "terraform-aws-modules",
@@ -665,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60932097,
             "language": "HCL",
             "last_commit": "2016-11-04T19:57:23Z",
             "owner": "sergej-brazdeikis",
@@ -679,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582996597,
             "language": "HCL",
             "last_commit": "2026-07-21T06:52:26Z",
             "owner": "runatlantis",
@@ -693,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420254992,
             "language": "HCL",
             "last_commit": "2026-08-06T16:23:03Z",
             "owner": "terraform-aws-modules",
@@ -707,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403427055,
             "language": "HCL",
             "last_commit": "2025-10-21T08:45:02Z",
             "owner": "terraform-aws-modules",
@@ -721,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200487046,
             "language": "HCL",
             "last_commit": "2026-04-02T08:41:00Z",
             "owner": "nozaq",
@@ -735,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78068947,
             "language": "HCL",
             "last_commit": "2017-03-13T04:45:04Z",
             "owner": "lunagt",
@@ -749,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104858485,
             "language": "HCL",
             "last_commit": "2025-10-21T08:48:17Z",
             "owner": "terraform-aws-modules",
@@ -763,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108576349,
             "language": "HCL",
             "last_commit": "2023-09-12T16:33:50Z",
             "owner": "metadevpro",
@@ -777,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190473213,
             "language": "HCL",
             "last_commit": "2024-03-06T22:13:17Z",
             "owner": "neiman-marcus",
@@ -791,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153264979,
             "language": "HCL",
             "last_commit": "2019-01-08T15:16:43Z",
             "owner": "ghostinthewires",
@@ -805,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611229918,
             "language": "HCL",
             "last_commit": "2026-08-06T14:36:21Z",
             "owner": "be-bold",
@@ -819,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123425419,
             "language": "HCL",
             "last_commit": "2026-01-05T08:57:39Z",
             "owner": "nis2shield",
@@ -833,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141410282,
             "language": "Go",
             "last_commit": "2019-09-30T19:45:03Z",
             "owner": "foreverXZC",
@@ -847,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138163328,
             "language": "HCL",
             "last_commit": "2018-06-22T14:34:23Z",
             "owner": "rahulkhengare",
@@ -861,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146119318,
             "language": "HCL",
             "last_commit": "2018-08-25T18:24:42Z",
             "owner": "kjanshair",
@@ -872,7 +928,7 @@
       "title": "Community Modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -881,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111411206,
             "language": "JavaScript",
             "last_commit": "2024-10-12T20:14:31Z",
             "owner": "outsideris",
@@ -895,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443985581,
             "language": "Go",
             "last_commit": "2026-08-16T01:36:20Z",
             "owner": "terralist",
@@ -909,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485272500,
             "language": "Go",
             "last_commit": "2026-05-11T19:17:20Z",
             "owner": "MatthewJohn",
@@ -923,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315339738,
             "language": "Go",
             "last_commit": "2026-08-14T21:06:07Z",
             "owner": "boring-registry",
@@ -937,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569890667,
             "language": "Java",
             "last_commit": "2026-08-14T18:41:59Z",
             "owner": "PacoVK",
@@ -951,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128665103,
             "language": "Go",
             "last_commit": "2021-12-03T04:12:40Z",
             "owner": "erikvanbrakel",
@@ -965,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484878844,
             "language": "Go",
             "last_commit": "2026-08-17T11:04:00Z",
             "owner": "nrkno",
@@ -979,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287754069,
             "language": "Go",
             "last_commit": "2026-02-11T15:03:01Z",
             "owner": "philips-labs",
@@ -993,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424593386,
             "language": "Rust",
             "last_commit": "2024-08-13T11:56:13Z",
             "owner": "veepee-oss",
@@ -1007,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108785452,
             "language": "Go",
             "last_commit": "2022-04-14T11:42:36Z",
             "owner": "apparentlymart",
@@ -1021,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459742187,
             "language": "Go",
             "last_commit": "2024-06-06T20:17:34Z",
             "owner": "devoteamgcloud",
@@ -1032,884 +1099,949 @@
       "title": "Self-Hosted Registries"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "terraform-provider-aws",
+              "description": "Provider for Amazon Web Services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93444615,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:48:48Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-aws",
+                "stars": 11046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-azurerm",
+              "description": "Provider for Azure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446042,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:40:08Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-azurerm",
+                "stars": 4972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-google",
+              "description": "Provider for Google Cloud Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446075,
+                "language": "Go",
+                "last_commit": "2026-08-19T02:25:39Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-google",
+                "stars": 2640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-kubernetes",
+              "description": "Provider for Kubernetes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446115,
+                "language": "Go",
+                "last_commit": "2026-08-12T06:32:37Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-kubernetes",
+                "stars": 1720
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-helm",
+              "description": "Provider for Helm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95368512,
+                "language": "Go",
+                "last_commit": "2026-07-10T17:16:36Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-helm",
+                "stars": 1077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-vsphere",
+              "description": "Provider for VMware vSphere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446037,
+                "language": "Go",
+                "last_commit": "2026-08-18T07:41:29Z",
+                "owner": "vmware",
+                "repo": "terraform-provider-vsphere",
+                "stars": 672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-docker",
+              "description": "Provider for Docker. :skull:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 93446500,
+                "language": "Go",
+                "last_commit": "2020-12-10T22:00:15Z",
+                "owner": "hashicorp",
+                "repo": "terraform-provider-docker",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hashicorp supported providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "terraform-provider-dominos",
+              "description": "Provider for Dominos Pizza.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178423689,
+                "language": "Go",
+                "last_commit": "2024-05-28T15:00:32Z",
+                "owner": "nat-henderson",
+                "repo": "terraform-provider-dominos",
+                "stars": 1180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-github",
+              "description": "Provider for GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446099,
+                "language": "Go",
+                "last_commit": "2026-08-17T21:08:00Z",
+                "owner": "integrations",
+                "repo": "terraform-provider-github",
+                "stars": 1158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-keycloak",
+              "description": "Provider to manage the settings of your Keycloak identity provider server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147036024,
+                "language": "Go",
+                "last_commit": "2026-08-17T04:42:42Z",
+                "owner": "keycloak",
+                "repo": "terraform-provider-keycloak",
+                "stars": 942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-hcloud",
+              "description": "Provider for Hetzner Cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136213126,
+                "language": "Go",
+                "last_commit": "2026-08-17T22:11:04Z",
+                "owner": "hetznercloud",
+                "repo": "terraform-provider-hcloud",
+                "stars": 732
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-snowflake",
+              "description": "Provider for Snowflake data warehouse.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165926555,
+                "language": "Go",
+                "last_commit": "2026-08-18T14:49:58Z",
+                "owner": "snowflakedb",
+                "repo": "terraform-provider-snowflake",
+                "stars": 692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-alicloud",
+              "description": "Provider for Alibaba Cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446083,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:15:50Z",
+                "owner": "aliyun",
+                "repo": "terraform-provider-alicloud",
+                "stars": 659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-digitalocean",
+              "description": "Provider for DigitalOcean.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446088,
+                "language": "Go",
+                "last_commit": "2026-08-18T06:49:03Z",
+                "owner": "digitalocean",
+                "repo": "terraform-provider-digitalocean",
+                "stars": 568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-openstack",
+              "description": "Plugin for OpenStack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446101,
+                "language": "Go",
+                "last_commit": "2026-08-10T02:22:50Z",
+                "owner": "terraform-provider-openstack",
+                "repo": "terraform-provider-openstack",
+                "stars": 473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-datadog",
+              "description": "Provider for Datadog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446053,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:05:28Z",
+                "owner": "DataDog",
+                "repo": "terraform-provider-datadog",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-gitlab",
+              "description": "Provider for GitLab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446122,
+                "language": null,
+                "last_commit": "2026-07-22T16:01:11Z",
+                "owner": "gitlabhq",
+                "repo": "terraform-provider-gitlab",
+                "stars": 436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-azuredevops",
+              "description": "Provider for Azure DevOps (VSTS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273244625,
+                "language": "Go",
+                "last_commit": "2026-08-12T22:24:00Z",
+                "owner": "microsoft",
+                "repo": "terraform-provider-azuredevops",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-ibm",
+              "description": "Provider for IBM Cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94801963,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:45:32Z",
+                "owner": "IBM-Cloud",
+                "repo": "terraform-provider-ibm",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-iterative",
+              "description": "Terraform plugin built with machine learning in mind.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292388086,
+                "language": "Go",
+                "last_commit": "2024-12-11T23:56:40Z",
+                "owner": "iterative",
+                "repo": "terraform-provider-iterative",
+                "stars": 295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-rancher2",
+              "description": "Provider for Rancher v2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186468979,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:38:30Z",
+                "owner": "rancher",
+                "repo": "terraform-provider-rancher2",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-artifactory",
+              "description": "Provider for JFrog Artifactory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288509997,
+                "language": "Go",
+                "last_commit": "2026-08-18T09:47:19Z",
+                "owner": "jfrog",
+                "repo": "terraform-provider-artifactory",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-stripe",
+              "description": "Provider for Stripe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147232553,
+                "language": "Go",
+                "last_commit": "2023-08-14T22:24:44Z",
+                "owner": "franckverrot",
+                "repo": "terraform-provider-stripe",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-azapi",
+              "description": "Provider for Azure Resource Manager Rest API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409095307,
+                "language": "Go",
+                "last_commit": "2026-08-18T00:57:29Z",
+                "owner": "Azure",
+                "repo": "terraform-provider-azapi",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-elasticstack",
+              "description": "Provider for Elasticsearch and Kibana.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421774239,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:36:58Z",
+                "owner": "elastic",
+                "repo": "terraform-provider-elasticstack",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-spinnaker",
+              "description": "Provider for Spinnaker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158859160,
+                "language": "Go",
+                "last_commit": "2024-03-14T13:29:11Z",
+                "owner": "armory-io",
+                "repo": "terraform-provider-spinnaker",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-k8s",
+              "description": "Simple Kubernetes Provider, works with any manifest.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190237110,
+                "language": "Go",
+                "last_commit": "2022-09-08T14:19:35Z",
+                "owner": "banzaicloud",
+                "repo": "terraform-provider-k8s",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-uptimerobot",
+              "description": "Provider to manage uptimerobot resources. :skull:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135330373,
+                "language": "Go",
+                "last_commit": "2023-07-13T21:04:33Z",
+                "owner": "louy",
+                "repo": "terraform-provider-uptimerobot",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-pingdom",
+              "description": "Provider to manage Pingdom resources. :skull:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23739382,
+                "language": "Go",
+                "last_commit": "2023-02-20T15:22:42Z",
+                "owner": "russellcardullo",
+                "repo": "terraform-provider-pingdom",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-panos",
+              "description": "Provider for Palo Alto Networks next-generation firewalls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119572700,
+                "language": "Go",
+                "last_commit": "2026-08-03T15:04:34Z",
+                "owner": "PaloAltoNetworks",
+                "repo": "terraform-provider-panos",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-heroku",
+              "description": "Provider for Heroku.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446103,
+                "language": "Go",
+                "last_commit": "2026-07-26T19:02:48Z",
+                "owner": "heroku",
+                "repo": "terraform-provider-heroku",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-ucloud",
+              "description": "Provider to manage UCloud resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162491815,
+                "language": "Go",
+                "last_commit": "2026-08-10T08:54:37Z",
+                "owner": "ucloud",
+                "repo": "terraform-provider-ucloud",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-healthchecksio",
+              "description": "Provider to manage healthchecks.io resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123689140,
+                "language": "Go",
+                "last_commit": "2026-03-19T01:38:48Z",
+                "owner": "kristofferahl",
+                "repo": "terraform-provider-healthchecksio",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-linode",
+              "description": "Provider for Linode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37038282,
+                "language": "Go",
+                "last_commit": "2019-04-12T15:37:42Z",
+                "owner": "btobolaski",
+                "repo": "terraform-provider-linode",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-atlas",
+              "description": "Provider for Atlas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485295329,
+                "language": "Go",
+                "last_commit": "2026-05-25T09:34:15Z",
+                "owner": "ariga",
+                "repo": "terraform-provider-atlas",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-spotinst",
+              "description": "Provider for spotinst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446112,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:28:22Z",
+                "owner": "spotinst",
+                "repo": "terraform-provider-spotinst",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-coder",
+              "description": "Provider for Coder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462891362,
+                "language": "Go",
+                "last_commit": "2026-08-18T23:48:59Z",
+                "owner": "coder",
+                "repo": "terraform-provider-coder",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-graphql",
+              "description": "Provider for GraphQL queries and mutations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272139728,
+                "language": "Go",
+                "last_commit": "2026-08-05T17:02:58Z",
+                "owner": "sullivtr",
+                "repo": "terraform-provider-graphql",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-confluent",
+              "description": "Provider for Confluent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486261159,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:35:25Z",
+                "owner": "confluentinc",
+                "repo": "terraform-provider-confluent",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-buildkite",
+              "description": "Provider for Buildkite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190869910,
+                "language": "Go",
+                "last_commit": "2026-08-19T05:18:31Z",
+                "owner": "buildkite",
+                "repo": "terraform-provider-buildkite",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-secrethub",
+              "description": "Provider for SecretHub. :skull:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 159650637,
+                "language": "Go",
+                "last_commit": "2021-04-15T15:09:34Z",
+                "owner": "secrethub",
+                "repo": "terraform-provider-secrethub",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-checkly",
+              "description": "Manage Checkly resources for API & E2E monitoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221029781,
+                "language": "Go",
+                "last_commit": "2026-07-30T11:22:46Z",
+                "owner": "checkly",
+                "repo": "terraform-provider-checkly",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-vaulted",
+              "description": "Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180900911,
+                "language": "Go",
+                "last_commit": "2026-02-05T08:50:21Z",
+                "owner": "sumup-oss",
+                "repo": "terraform-provider-vaulted",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-env0",
+              "description": "Provider for env0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345164646,
+                "language": "Go",
+                "last_commit": "2026-08-18T11:53:32Z",
+                "owner": "env0",
+                "repo": "terraform-provider-env0",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-planetscale",
+              "description": "Terraform provider for PlanetScale (Vitess & Postgres).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669354947,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:41:42Z",
+                "owner": "planetscale",
+                "repo": "terraform-provider-planetscale",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-sigsci",
+              "description": "Provider for Signal Sciences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276444843,
+                "language": "Go",
+                "last_commit": "2026-06-24T13:32:07Z",
+                "owner": "signalsciences",
+                "repo": "terraform-provider-sigsci",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-scp",
+              "description": "Provider for Splunk Cloud Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575082386,
+                "language": "Go",
+                "last_commit": "2026-08-06T23:46:45Z",
+                "owner": "splunk",
+                "repo": "terraform-provider-scp",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-scalr",
+              "description": "Provider for Scalr",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248584331,
+                "language": "Go",
+                "last_commit": "2026-08-18T12:47:45Z",
+                "owner": "Scalr",
+                "repo": "terraform-provider-scalr",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-qovery",
+              "description": "Provider for Qovery — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426566427,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:07:13Z",
+                "owner": "Qovery",
+                "repo": "terraform-provider-qovery",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-phare",
+              "description": "Terraform provider for Phare.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1155730418,
+                "language": "Go",
+                "last_commit": "2026-08-14T16:52:48Z",
+                "owner": "phare",
+                "repo": "terraform-provider-phare",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-devhelm",
+              "description": "Provider for DevHelm uptime monitoring — manage monitors, alert channels, and status pages as code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1205787047,
+                "language": "Go",
+                "last_commit": "2026-06-15T20:15:57Z",
+                "owner": "devhelmhq",
+                "repo": "terraform-provider-devhelm",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vendor supported providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "terraform-provider-proxmox",
+              "description": "Terraform Proxmox provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81410439,
+                "language": "Go",
+                "last_commit": "2026-08-17T18:45:18Z",
+                "owner": "Telmate",
+                "repo": "terraform-provider-proxmox",
+                "stars": 2941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-docker",
+              "description": "Terraform Docker provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310596153,
+                "language": "Go",
+                "last_commit": "2026-08-13T19:03:23Z",
+                "owner": "kreuzwerker",
+                "repo": "terraform-provider-docker",
+                "stars": 817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-minio",
+              "description": "Terraform provider for managing MinIO S3 buckets and IAM Users.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226682915,
+                "language": "Go",
+                "last_commit": "2026-08-17T18:57:38Z",
+                "owner": "aminueza",
+                "repo": "terraform-provider-minio",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-terracurl",
+              "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505491506,
+                "language": "Go",
+                "last_commit": "2026-08-17T04:35:15Z",
+                "owner": "devops-rob",
+                "repo": "terraform-provider-terracurl",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-value",
+              "description": "Value Provider for Terraform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532507679,
+                "language": "Go",
+                "last_commit": "2022-09-24T17:04:11Z",
+                "owner": "pseudo-dynamic",
+                "repo": "terraform-provider-value",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-coolify",
+              "description": "Terraform provider for Coolify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233556139,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:06:05Z",
+                "owner": "coolify-terraform",
+                "repo": "terraform-provider-coolify",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-multipass",
+              "description": "Terraform provider for Multipass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1096351148,
+                "language": "Go",
+                "last_commit": "2026-04-24T13:03:19Z",
+                "owner": "todoroff",
+                "repo": "terraform-provider-multipass",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-plancost",
+              "description": "Terraform provider for Azure cost estimation and cost guardrails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1137553859,
+                "language": "Go",
+                "last_commit": "2026-03-11T02:55:35Z",
+                "owner": "plancost",
+                "repo": "terraform-provider-plancost",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-uname",
+              "description": "Uname Provider for Terraform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317621591,
+                "language": "Go",
+                "last_commit": "2026-01-27T19:21:41Z",
+                "owner": "julienlevasseur",
+                "repo": "terraform-provider-uname",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-openrouter",
+              "description": "Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222725486,
+                "language": "Go",
+                "last_commit": "2026-08-19T04:35:15Z",
+                "owner": "cloudopsworks",
+                "repo": "terraform-provider-openrouter",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community providers"
+        }
+      ],
       "title": "Providers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "terraform-provider-aws",
-          "description": "Provider for Amazon Web Services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T13:26:27Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-aws",
-            "stars": 11045
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-azurerm",
-          "description": "Provider for Azure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T13:20:20Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-azurerm",
-            "stars": 4969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-google",
-          "description": "Provider for Google Cloud Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T02:24:12Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-google",
-            "stars": 2640
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-kubernetes",
-          "description": "Provider for Kubernetes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T06:32:37Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-kubernetes",
-            "stars": 1720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-helm",
-          "description": "Provider for Helm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-10T17:16:36Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-helm",
-            "stars": 1077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-vsphere",
-          "description": "Provider for VMware vSphere.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:41:29Z",
-            "owner": "vmware",
-            "repo": "terraform-provider-vsphere",
-            "stars": 672
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-docker",
-          "description": "Provider for Docker. :skull:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-12-10T22:00:15Z",
-            "owner": "hashicorp",
-            "repo": "terraform-provider-docker",
-            "stars": 132
-          }
-        }
-      ],
-      "title": "Hashicorp supported providers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "terraform-provider-dominos",
-          "description": "Provider for Dominos Pizza.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-28T15:00:32Z",
-            "owner": "nat-henderson",
-            "repo": "terraform-provider-dominos",
-            "stars": 1180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-github",
-          "description": "Provider for GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T21:08:00Z",
-            "owner": "integrations",
-            "repo": "terraform-provider-github",
-            "stars": 1157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-keycloak",
-          "description": "Provider to manage the settings of your Keycloak identity provider server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T04:42:42Z",
-            "owner": "keycloak",
-            "repo": "terraform-provider-keycloak",
-            "stars": 942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-hcloud",
-          "description": "Provider for Hetzner Cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T22:11:04Z",
-            "owner": "hetznercloud",
-            "repo": "terraform-provider-hcloud",
-            "stars": 732
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-snowflake",
-          "description": "Provider for Snowflake data warehouse.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T13:05:31Z",
-            "owner": "snowflakedb",
-            "repo": "terraform-provider-snowflake",
-            "stars": 692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-alicloud",
-          "description": "Provider for Alibaba Cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:56:12Z",
-            "owner": "aliyun",
-            "repo": "terraform-provider-alicloud",
-            "stars": 659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-digitalocean",
-          "description": "Provider for DigitalOcean.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T06:49:03Z",
-            "owner": "digitalocean",
-            "repo": "terraform-provider-digitalocean",
-            "stars": 568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-openstack",
-          "description": "Plugin for OpenStack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-10T02:22:50Z",
-            "owner": "terraform-provider-openstack",
-            "repo": "terraform-provider-openstack",
-            "stars": 473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-datadog",
-          "description": "Provider for Datadog.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:57:14Z",
-            "owner": "DataDog",
-            "repo": "terraform-provider-datadog",
-            "stars": 465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-gitlab",
-          "description": "Provider for GitLab.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-22T16:01:11Z",
-            "owner": "gitlabhq",
-            "repo": "terraform-provider-gitlab",
-            "stars": 436
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-azuredevops",
-          "description": "Provider for Azure DevOps (VSTS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T22:24:00Z",
-            "owner": "microsoft",
-            "repo": "terraform-provider-azuredevops",
-            "stars": 429
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-ibm",
-          "description": "Provider for IBM Cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T05:43:02Z",
-            "owner": "IBM-Cloud",
-            "repo": "terraform-provider-ibm",
-            "stars": 360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-iterative",
-          "description": "Terraform plugin built with machine learning in mind.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-11T23:56:40Z",
-            "owner": "iterative",
-            "repo": "terraform-provider-iterative",
-            "stars": 295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-rancher2",
-          "description": "Provider for Rancher v2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T19:08:29Z",
-            "owner": "rancher",
-            "repo": "terraform-provider-rancher2",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-artifactory",
-          "description": "Provider for JFrog Artifactory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:47:19Z",
-            "owner": "jfrog",
-            "repo": "terraform-provider-artifactory",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-stripe",
-          "description": "Provider for Stripe.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-08-14T22:24:44Z",
-            "owner": "franckverrot",
-            "repo": "terraform-provider-stripe",
-            "stars": 245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-azapi",
-          "description": "Provider for Azure Resource Manager Rest API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T00:57:29Z",
-            "owner": "Azure",
-            "repo": "terraform-provider-azapi",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-elasticstack",
-          "description": "Provider for Elasticsearch and Kibana.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:16:44Z",
-            "owner": "elastic",
-            "repo": "terraform-provider-elasticstack",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-spinnaker",
-          "description": "Provider for Spinnaker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-14T13:29:11Z",
-            "owner": "armory-io",
-            "repo": "terraform-provider-spinnaker",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-k8s",
-          "description": "Simple Kubernetes Provider, works with any manifest.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-09-08T14:19:35Z",
-            "owner": "banzaicloud",
-            "repo": "terraform-provider-k8s",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-uptimerobot",
-          "description": "Provider to manage uptimerobot resources. :skull:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-07-13T21:04:33Z",
-            "owner": "louy",
-            "repo": "terraform-provider-uptimerobot",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-pingdom",
-          "description": "Provider to manage Pingdom resources. :skull:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-02-20T15:22:42Z",
-            "owner": "russellcardullo",
-            "repo": "terraform-provider-pingdom",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-panos",
-          "description": "Provider for Palo Alto Networks next-generation firewalls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-03T15:04:34Z",
-            "owner": "PaloAltoNetworks",
-            "repo": "terraform-provider-panos",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-heroku",
-          "description": "Provider for Heroku.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-26T19:02:48Z",
-            "owner": "heroku",
-            "repo": "terraform-provider-heroku",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-ucloud",
-          "description": "Provider to manage UCloud resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-10T08:54:37Z",
-            "owner": "ucloud",
-            "repo": "terraform-provider-ucloud",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-healthchecksio",
-          "description": "Provider to manage healthchecks.io resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-19T01:38:48Z",
-            "owner": "kristofferahl",
-            "repo": "terraform-provider-healthchecksio",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-linode",
-          "description": "Provider for Linode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-04-12T15:37:42Z",
-            "owner": "btobolaski",
-            "repo": "terraform-provider-linode",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-atlas",
-          "description": "Provider for Atlas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-25T09:34:15Z",
-            "owner": "ariga",
-            "repo": "terraform-provider-atlas",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-spotinst",
-          "description": "Provider for spotinst.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T09:48:49Z",
-            "owner": "spotinst",
-            "repo": "terraform-provider-spotinst",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-coder",
-          "description": "Provider for Coder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:52:27Z",
-            "owner": "coder",
-            "repo": "terraform-provider-coder",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-graphql",
-          "description": "Provider for GraphQL queries and mutations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-05T17:02:58Z",
-            "owner": "sullivtr",
-            "repo": "terraform-provider-graphql",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-confluent",
-          "description": "Provider for Confluent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T06:04:46Z",
-            "owner": "confluentinc",
-            "repo": "terraform-provider-confluent",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-buildkite",
-          "description": "Provider for Buildkite.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:10:36Z",
-            "owner": "buildkite",
-            "repo": "terraform-provider-buildkite",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-secrethub",
-          "description": "Provider for SecretHub. :skull:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-04-15T15:09:34Z",
-            "owner": "secrethub",
-            "repo": "terraform-provider-secrethub",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-checkly",
-          "description": "Manage Checkly resources for API & E2E monitoring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-30T11:22:46Z",
-            "owner": "checkly",
-            "repo": "terraform-provider-checkly",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-vaulted",
-          "description": "Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-05T08:50:21Z",
-            "owner": "sumup-oss",
-            "repo": "terraform-provider-vaulted",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-env0",
-          "description": "Provider for env0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:53:32Z",
-            "owner": "env0",
-            "repo": "terraform-provider-env0",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-planetscale",
-          "description": "Terraform provider for PlanetScale (Vitess & Postgres).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T00:06:53Z",
-            "owner": "planetscale",
-            "repo": "terraform-provider-planetscale",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-sigsci",
-          "description": "Provider for Signal Sciences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-24T13:32:07Z",
-            "owner": "signalsciences",
-            "repo": "terraform-provider-sigsci",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-scp",
-          "description": "Provider for Splunk Cloud Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T23:46:45Z",
-            "owner": "splunk",
-            "repo": "terraform-provider-scp",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-scalr",
-          "description": "Provider for Scalr",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:47:45Z",
-            "owner": "Scalr",
-            "repo": "terraform-provider-scalr",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-qovery",
-          "description": "Provider for Qovery — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:54:21Z",
-            "owner": "Qovery",
-            "repo": "terraform-provider-qovery",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-phare",
-          "description": "Terraform provider for Phare.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T16:52:48Z",
-            "owner": "phare",
-            "repo": "terraform-provider-phare",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-devhelm",
-          "description": "Provider for DevHelm uptime monitoring — manage monitors, alert channels, and status pages as code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-15T20:15:57Z",
-            "owner": "devhelmhq",
-            "repo": "terraform-provider-devhelm",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Vendor supported providers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "terraform-provider-proxmox",
-          "description": "Terraform Proxmox provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T18:45:18Z",
-            "owner": "Telmate",
-            "repo": "terraform-provider-proxmox",
-            "stars": 2940
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-docker",
-          "description": "Terraform Docker provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T19:03:23Z",
-            "owner": "kreuzwerker",
-            "repo": "terraform-provider-docker",
-            "stars": 816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-minio",
-          "description": "Terraform provider for managing MinIO S3 buckets and IAM Users.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T18:57:38Z",
-            "owner": "aminueza",
-            "repo": "terraform-provider-minio",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-terracurl",
-          "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T04:35:15Z",
-            "owner": "devops-rob",
-            "repo": "terraform-provider-terracurl",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-value",
-          "description": "Value Provider for Terraform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-09-24T17:04:11Z",
-            "owner": "pseudo-dynamic",
-            "repo": "terraform-provider-value",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-coolify",
-          "description": "Terraform provider for Coolify.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T19:18:58Z",
-            "owner": "coolify-terraform",
-            "repo": "terraform-provider-coolify",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-multipass",
-          "description": "Terraform provider for Multipass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-24T13:03:19Z",
-            "owner": "todoroff",
-            "repo": "terraform-provider-multipass",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-plancost",
-          "description": "Terraform provider for Azure cost estimation and cost guardrails.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-11T02:55:35Z",
-            "owner": "plancost",
-            "repo": "terraform-provider-plancost",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-uname",
-          "description": "Uname Provider for Terraform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-27T19:21:41Z",
-            "owner": "julienlevasseur",
-            "repo": "terraform-provider-uname",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-openrouter",
-          "description": "Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-03T20:21:20Z",
-            "owner": "cloudopsworks",
-            "repo": "terraform-provider-openrouter",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Community providers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1918,6 +2050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53174289,
             "language": "Go",
             "last_commit": "2026-08-13T04:26:03Z",
             "owner": "gruntwork-io",
@@ -1932,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86997096,
             "language": "Python",
             "last_commit": "2026-05-08T10:47:53Z",
             "owner": "terraform-compliance",
@@ -1946,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61765009,
             "language": "Ruby",
             "last_commit": "2024-10-22T14:32:15Z",
             "owner": "newcontext-oss",
@@ -1960,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56401653,
             "language": "Python",
             "last_commit": "2020-01-06T17:14:56Z",
             "owner": "elmundio87",
@@ -1974,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171977858,
             "language": "Go",
             "last_commit": "2021-07-08T10:59:48Z",
             "owner": "xchapter7x",
@@ -1988,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41094961,
             "language": "Ruby",
             "last_commit": "2015-09-10T17:41:11Z",
             "owner": "bsnape",
@@ -1999,7 +2137,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2008,11 +2146,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-18T12:59:06Z",
+            "last_commit": "2026-08-19T12:52:24Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49477
+            "stars": 49486
           }
         },
         {
@@ -2022,11 +2161,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274625369,
             "language": "Go",
             "last_commit": "2026-08-18T07:05:58Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12464
+            "stars": 12469
           }
         },
         {
@@ -2036,11 +2176,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59522149,
             "language": "Go",
-            "last_commit": "2026-08-18T13:16:28Z",
+            "last_commit": "2026-08-19T11:14:05Z",
             "owner": "gruntwork-io",
             "repo": "terragrunt",
-            "stars": 9784
+            "stars": 9785
           }
         },
         {
@@ -2050,8 +2191,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120519269,
             "language": "Go",
-            "last_commit": "2026-08-18T04:03:01Z",
+            "last_commit": "2026-08-19T04:33:40Z",
             "owner": "runatlantis",
             "repo": "atlantis",
             "stars": 9239
@@ -2064,11 +2206,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
+            "last_commit": "2026-08-19T12:30:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8949
+            "stars": 8954
           }
         },
         {
@@ -2078,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173785481,
             "language": "Go",
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
@@ -2092,11 +2236,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71487396,
             "language": "Go",
             "last_commit": "2026-08-15T17:38:13Z",
             "owner": "terraform-linters",
             "repo": "tflint",
-            "stars": 5793
+            "stars": 5792
           }
         },
         {
@@ -2106,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103084166,
             "language": "Go",
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
@@ -2120,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 232603801,
             "language": "TypeScript",
             "last_commit": "2025-12-10T14:12:01Z",
             "owner": "hashicorp",
@@ -2134,6 +2281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64857500,
             "language": "Shell",
             "last_commit": "2026-07-01T17:32:52Z",
             "owner": "tfutils",
@@ -2148,6 +2296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60978152,
             "language": "Go",
             "last_commit": "2026-08-03T06:52:24Z",
             "owner": "terraform-docs",
@@ -2162,6 +2311,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32841259,
             "language": "Ruby",
             "last_commit": "2021-12-11T08:18:50Z",
             "owner": "dtan4",
@@ -2176,6 +2326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575295397,
             "language": "Go",
             "last_commit": "2026-03-24T10:56:24Z",
             "owner": "gofireflyio",
@@ -2190,8 +2341,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69382485,
             "language": "Shell",
-            "last_commit": "2026-08-18T10:46:52Z",
+            "last_commit": "2026-08-18T16:38:50Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
             "stars": 3757
@@ -2204,11 +2356,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411630635,
             "language": "Go",
             "last_commit": "2026-08-18T12:54:16Z",
             "owner": "terramate-io",
             "repo": "terramate",
-            "stars": 3622
+            "stars": 3623
           }
         },
         {
@@ -2218,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379820284,
             "language": "Go",
             "last_commit": "2025-07-30T03:34:48Z",
             "owner": "im2nguyen",
@@ -2232,11 +2386,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T12:32:24Z",
+            "last_commit": "2026-08-19T10:47:53Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2687
+            "stars": 2688
           }
         },
         {
@@ -2246,11 +2401,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297622945,
             "language": "Go",
             "last_commit": "2026-07-31T19:58:53Z",
             "owner": "snyk",
             "repo": "driftctl",
-            "stars": 2656
+            "stars": 2657
           }
         },
         {
@@ -2260,6 +2416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173295770,
             "language": "JavaScript",
             "last_commit": "2026-07-07T22:53:58Z",
             "owner": "iann0036",
@@ -2274,6 +2431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169991093,
             "language": "Go",
             "last_commit": "2025-09-02T12:57:33Z",
             "owner": "cycloidio",
@@ -2288,6 +2446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109790225,
             "language": "JavaScript",
             "last_commit": "2024-08-14T12:38:03Z",
             "owner": "28mm",
@@ -2302,11 +2461,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277649384,
             "language": "Go",
             "last_commit": "2026-04-23T14:00:06Z",
             "owner": "cycloidio",
             "repo": "inframap",
-            "stars": 2055
+            "stars": 2054
           }
         },
         {
@@ -2316,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97692739,
             "language": "Go",
             "last_commit": "2026-06-15T18:22:28Z",
             "owner": "camptocamp",
@@ -2330,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106306056,
             "language": "Python",
             "last_commit": "2026-08-09T08:24:39Z",
             "owner": "kapicorp",
@@ -2344,11 +2506,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395943715,
             "language": "Go",
-            "last_commit": "2026-07-25T04:11:08Z",
+            "last_commit": "2026-08-19T07:17:28Z",
             "owner": "Azure",
             "repo": "aztfexport",
-            "stars": 1906
+            "stars": 1908
           }
         },
         {
@@ -2358,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83470613,
             "language": "Ruby",
             "last_commit": "2024-03-20T18:03:51Z",
             "owner": "coinbase",
@@ -2372,11 +2536,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469272572,
             "language": "Python",
             "last_commit": "2026-08-10T17:52:31Z",
             "owner": "patrickchugh",
             "repo": "terravision",
-            "stars": 1605
+            "stars": 1607
           }
         },
         {
@@ -2386,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739378779,
             "language": "Go",
             "last_commit": "2026-08-18T09:50:34Z",
             "owner": "tofuutils",
@@ -2400,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160878303,
             "language": "Go",
             "last_commit": "2026-07-28T17:02:45Z",
             "owner": "cloudflare",
@@ -2414,8 +2581,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292427680,
             "language": "Go",
-            "last_commit": "2026-08-18T12:51:06Z",
+            "last_commit": "2026-08-19T10:46:39Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1355
@@ -2428,11 +2596,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668619535,
             "language": "Python",
             "last_commit": "2024-07-09T18:55:17Z",
             "owner": "idoavrah",
             "repo": "terraform-tui",
-            "stars": 1291
+            "stars": 1290
           }
         },
         {
@@ -2442,6 +2611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275169025,
             "language": "Go",
             "last_commit": "2026-05-04T13:10:37Z",
             "owner": "minamijoyo",
@@ -2456,6 +2626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172287819,
             "language": "Go",
             "last_commit": "2025-12-12T14:11:18Z",
             "owner": "sl1pm4t",
@@ -2470,6 +2641,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 672364678,
             "language": "Go",
             "last_commit": "2023-12-26T16:48:59Z",
             "owner": "briefercloud",
@@ -2484,6 +2656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183642157,
             "language": "Java",
             "last_commit": "2023-03-30T11:59:10Z",
             "owner": "gaia-app",
@@ -2498,11 +2671,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259769033,
             "language": "Go",
             "last_commit": "2024-01-17T23:39:43Z",
             "owner": "jrhouston",
             "repo": "tfk8s",
-            "stars": 1058
+            "stars": 1057
           }
         },
         {
@@ -2512,6 +2686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232134221,
             "language": "Go",
             "last_commit": "2026-07-03T11:21:09Z",
             "owner": "env0",
@@ -2526,6 +2701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84151553,
             "language": "Go",
             "last_commit": "2026-05-15T20:39:18Z",
             "owner": "sclevine",
@@ -2540,6 +2716,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 228634068,
             "language": "Open Policy Agent",
             "last_commit": "2024-09-03T09:00:01Z",
             "owner": "fugue",
@@ -2554,6 +2731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335331498,
             "language": "Go",
             "last_commit": "2026-08-09T04:59:09Z",
             "owner": "bridgecrewio",
@@ -2568,11 +2746,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499752618,
             "language": "HCL",
             "last_commit": "2026-08-17T07:32:56Z",
             "owner": "JamesWoolfenden",
             "repo": "pike",
-            "stars": 927
+            "stars": 926
           }
         },
         {
@@ -2582,6 +2761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482225540,
             "language": "Go",
             "last_commit": "2026-08-18T01:45:40Z",
             "owner": "busser",
@@ -2596,6 +2776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266538906,
             "language": null,
             "last_commit": "2025-03-19T14:56:19Z",
             "owner": "antonbabenko",
@@ -2610,6 +2791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241606408,
             "language": "Python",
             "last_commit": "2025-03-18T19:37:06Z",
             "owner": "bridgecrewio",
@@ -2624,6 +2806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131406584,
             "language": "JavaScript",
             "last_commit": "2026-08-10T23:18:56Z",
             "owner": "flosell",
@@ -2638,6 +2821,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 218020487,
             "language": "Shell",
             "last_commit": "2025-02-06T08:50:52Z",
             "owner": "thomvaill",
@@ -2652,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309733152,
             "language": "Python",
             "last_commit": "2026-08-10T07:29:16Z",
             "owner": "aws-samples",
@@ -2666,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251353396,
             "language": "HCL",
             "last_commit": "2025-11-20T01:33:21Z",
             "owner": "transcend-io",
@@ -2680,11 +2866,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447641855,
             "language": "Go",
             "last_commit": "2026-03-20T21:52:37Z",
             "owner": "dineshba",
             "repo": "tf-summarize",
-            "stars": 728
+            "stars": 730
           }
         },
         {
@@ -2694,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739703271,
             "language": "Go",
             "last_commit": "2026-01-02T11:17:40Z",
             "owner": "leg100",
@@ -2708,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266294981,
             "language": "TypeScript",
             "last_commit": "2023-10-26T14:29:14Z",
             "owner": "hieven",
@@ -2722,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201781630,
             "language": "Go",
             "last_commit": "2026-07-15T07:42:43Z",
             "owner": "minamijoyo",
@@ -2736,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231227654,
             "language": "Go",
             "last_commit": "2026-05-05T15:32:45Z",
             "owner": "minamijoyo",
@@ -2750,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326347277,
             "language": "Go",
             "last_commit": "2026-08-18T10:41:51Z",
             "owner": "suzuki-shunsuke",
@@ -2764,6 +2956,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67414319,
             "language": "HCL",
             "last_commit": "2025-06-25T12:17:53Z",
             "owner": "kvz",
@@ -2778,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198163434,
             "language": "Go",
             "last_commit": "2026-07-21T00:30:06Z",
             "owner": "tmccombs",
@@ -2792,6 +2986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406547757,
             "language": "Go",
             "last_commit": "2026-08-16T13:09:26Z",
             "owner": "threatcl",
@@ -2806,6 +3001,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36738232,
             "language": "Python",
             "last_commit": "2019-02-06T21:33:36Z",
             "owner": "mantl",
@@ -2820,6 +3016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149765255,
             "language": "Go",
             "last_commit": "2023-03-19T22:42:53Z",
             "owner": "uber",
@@ -2834,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448888766,
             "language": "TypeScript",
             "last_commit": "2026-08-17T21:53:26Z",
             "owner": "suzuki-shunsuke",
@@ -2848,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258291769,
             "language": "Go",
             "last_commit": "2024-04-29T00:45:36Z",
             "owner": "pcasteran",
@@ -2862,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 390314995,
             "language": "Rust",
             "last_commit": "2023-08-07T06:55:18Z",
             "owner": "flatt-security",
@@ -2876,6 +3076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292492587,
             "language": "Go",
             "last_commit": "2025-12-09T04:52:15Z",
             "owner": "GalleyBytes",
@@ -2890,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54924122,
             "language": "Go",
             "last_commit": "2023-03-24T10:40:07Z",
             "owner": "opencredo",
@@ -2904,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945036417,
             "language": "Rust",
             "last_commit": "2026-08-13T04:27:32Z",
             "owner": "nwiizo",
@@ -2918,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 165449400,
             "language": "Go",
             "last_commit": "2021-03-08T01:40:22Z",
             "owner": "dmlittle",
@@ -2932,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112020529,
             "language": "Python",
             "last_commit": "2021-08-20T07:25:57Z",
             "owner": "antonbabenko",
@@ -2946,6 +3151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902851079,
             "language": "Go",
             "last_commit": "2026-05-12T00:04:00Z",
             "owner": "magodo",
@@ -2960,6 +3166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301734306,
             "language": "Go",
             "last_commit": "2026-05-07T09:45:07Z",
             "owner": "cycloidio",
@@ -2974,6 +3181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526791859,
             "language": "Python",
             "last_commit": "2025-06-09T22:47:03Z",
             "owner": "awslabs",
@@ -2988,6 +3196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469002061,
             "language": "Python",
             "last_commit": "2026-06-15T09:47:19Z",
             "owner": "cloudandthings",
@@ -3002,6 +3211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117117824,
             "language": "Go",
             "last_commit": "2026-05-04T12:58:20Z",
             "owner": "minamijoyo",
@@ -3016,6 +3226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137801039,
             "language": "Go",
             "last_commit": "2026-08-17T15:21:23Z",
             "owner": "chanzuckerberg",
@@ -3030,6 +3241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80037664,
             "language": "HCL",
             "last_commit": "2026-04-24T22:58:13Z",
             "owner": "tfutils",
@@ -3044,6 +3256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619377631,
             "language": "Go",
             "last_commit": "2024-12-24T05:03:51Z",
             "owner": "future-architect",
@@ -3058,6 +3271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105176105,
             "language": "Shell",
             "last_commit": "2026-06-19T00:56:55Z",
             "owner": "asdf-community",
@@ -3072,6 +3286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603065557,
             "language": "Go",
             "last_commit": "2025-10-01T17:03:06Z",
             "owner": "AlexNabokikh",
@@ -3086,6 +3301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464428357,
             "language": "TypeScript",
             "last_commit": "2025-05-08T06:59:14Z",
             "owner": "gofireflyio",
@@ -3100,6 +3316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736036811,
             "language": "Shell",
             "last_commit": "2026-02-10T00:33:55Z",
             "owner": "tofuutils",
@@ -3114,6 +3331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235794044,
             "language": "Go",
             "last_commit": "2026-03-11T11:41:15Z",
             "owner": "shihanng",
@@ -3128,6 +3346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129543232,
             "language": "Twig",
             "last_commit": "2022-04-16T16:05:23Z",
             "owner": "tfxor",
@@ -3142,6 +3361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 166764658,
             "language": "Go",
             "last_commit": "2023-12-15T05:22:57Z",
             "owner": "cloudposse-archives",
@@ -3156,6 +3376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614556206,
             "language": "Python",
             "last_commit": "2026-03-29T04:14:19Z",
             "owner": "cisco-open",
@@ -3170,6 +3391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141223446,
             "language": "TypeScript",
             "last_commit": "2019-10-08T08:06:02Z",
             "owner": "chrislewisdev",
@@ -3184,11 +3406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 773585379,
             "language": "Go",
             "last_commit": "2026-08-10T10:00:43Z",
             "owner": "wgpsec",
             "repo": "redc",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -3198,6 +3421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609348458,
             "language": "Go",
             "last_commit": "2023-03-31T13:52:27Z",
             "owner": "sylwit",
@@ -3212,6 +3436,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72657148,
             "language": "Go",
             "last_commit": "2019-09-09T18:14:04Z",
             "owner": "palantir",
@@ -3226,6 +3451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610410857,
             "language": "Go",
             "last_commit": "2025-03-15T09:41:14Z",
             "owner": "datarootsio",
@@ -3240,6 +3466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906260981,
             "language": "Go",
             "last_commit": "2026-08-18T00:43:50Z",
             "owner": "suzuki-shunsuke",
@@ -3254,6 +3481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563978901,
             "language": "Go",
             "last_commit": "2026-07-16T06:27:30Z",
             "owner": "busser",
@@ -3268,6 +3496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118963768,
             "language": "TypeScript",
             "last_commit": "2026-08-03T19:03:15Z",
             "owner": "lifeomic",
@@ -3282,6 +3511,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 213015466,
             "language": "Python",
             "last_commit": "2023-09-04T15:05:56Z",
             "owner": "naorlivne",
@@ -3296,6 +3526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187742468,
             "language": "Go",
             "last_commit": "2025-05-08T19:10:41Z",
             "owner": "bflad",
@@ -3310,6 +3541,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 153174123,
             "language": "Go",
             "last_commit": "2023-02-16T14:08:51Z",
             "owner": "coretech",
@@ -3324,6 +3556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580424589,
             "language": "Shell",
             "last_commit": "2024-11-30T18:53:19Z",
             "owner": "paololazzari",
@@ -3338,6 +3571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403886429,
             "language": "Go",
             "last_commit": "2026-04-14T09:59:07Z",
             "owner": "rogerwelin",
@@ -3352,6 +3586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572168479,
             "language": "Rust",
             "last_commit": "2024-07-21T19:51:53Z",
             "owner": "andrewbaxter",
@@ -3366,6 +3601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82499648,
             "language": "Ruby",
             "last_commit": "2026-08-17T07:07:27Z",
             "owner": "infrablocks",
@@ -3380,8 +3616,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 551475761,
             "language": "Go",
-            "last_commit": "2026-08-16T02:43:10Z",
+            "last_commit": "2026-08-19T03:52:28Z",
             "owner": "JamesWoolfenden",
             "repo": "sato",
             "stars": 109
@@ -3393,9 +3630,10 @@
           "description": "Terragrunt frontend for executing Terragrunt/Terraform through Docker.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
+            "id": 91362181,
             "language": "Go",
-            "last_commit": "2026-08-17T19:05:53Z",
+            "last_commit": "2026-08-18T13:56:21Z",
             "owner": "coveooss",
             "repo": "tgf",
             "stars": 108
@@ -3408,6 +3646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188286695,
             "language": "Python",
             "last_commit": "2022-08-11T18:48:13Z",
             "owner": "raymondbutcher",
@@ -3422,6 +3661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458831302,
             "language": "Go",
             "last_commit": "2026-05-06T12:35:27Z",
             "owner": "minamijoyo",
@@ -3436,6 +3676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440847257,
             "language": "Go",
             "last_commit": "2024-03-07T08:21:19Z",
             "owner": "magodo",
@@ -3450,6 +3691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453183173,
             "language": "Go",
             "last_commit": "2025-11-11T02:45:10Z",
             "owner": "0xDones",
@@ -3464,6 +3706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714264169,
             "language": "Go",
             "last_commit": "2026-08-18T02:44:52Z",
             "owner": "suzuki-shunsuke",
@@ -3478,6 +3721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628738862,
             "language": "Go",
             "last_commit": "2025-08-21T14:49:01Z",
             "owner": "Madh93",
@@ -3492,6 +3736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384333462,
             "language": "TypeScript",
             "last_commit": "2021-12-08T07:08:14Z",
             "owner": "rohinivsenthil",
@@ -3506,6 +3751,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 189106309,
             "language": "Go",
             "last_commit": "2025-03-31T10:47:06Z",
             "owner": "avinor",
@@ -3520,6 +3766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622175722,
             "language": "Go",
             "last_commit": "2023-04-01T18:48:30Z",
             "owner": "flavius-dinu",
@@ -3534,6 +3781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1105172804,
             "language": "Ruby",
             "last_commit": "2026-04-23T09:36:03Z",
             "owner": "drifthoundhq",
@@ -3548,6 +3796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236779168,
             "language": "Go",
             "last_commit": "2026-06-18T11:38:27Z",
             "owner": "contentful-labs",
@@ -3557,11 +3806,27 @@
         },
         {
           "node_type": "item",
+          "title": "cloud-audit",
+          "description": "AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171552326,
+            "language": "Python",
+            "last_commit": "2026-07-21T08:53:31Z",
+            "owner": "gebalamariusz",
+            "repo": "cloud-audit",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
           "title": "terraformsh",
           "description": "A wrapper in Bash for easier CLI UX and DRY hierarchical configs",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335478081,
             "language": "Shell",
             "last_commit": "2026-06-06T06:50:24Z",
             "owner": "pwillis-els",
@@ -3571,25 +3836,12 @@
         },
         {
           "node_type": "item",
-          "title": "cloud-audit",
-          "description": "AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-21T08:53:31Z",
-            "owner": "gebalamariusz",
-            "repo": "cloud-audit",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tfocus",
           "description": "tfocus is a super interactive tool for selecting and executing Terraform plan/apply on specific resources. Think of it as an \"emergency tool\" - not for everyday use.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894446751,
             "language": "Rust",
             "last_commit": "2025-01-19T01:41:04Z",
             "owner": "nwiizo",
@@ -3604,6 +3856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547257973,
             "language": "Go",
             "last_commit": "2025-10-04T15:12:13Z",
             "owner": "ivanilves",
@@ -3618,6 +3871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617665063,
             "language": "Go",
             "last_commit": "2023-12-05T10:17:41Z",
             "owner": "sirrend",
@@ -3632,6 +3886,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 173404981,
             "language": "Go",
             "last_commit": "2021-06-11T13:46:12Z",
             "owner": "devopsmakers",
@@ -3646,6 +3901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216419509,
             "language": "Python",
             "last_commit": "2020-02-15T22:04:41Z",
             "owner": "derBroBro",
@@ -3660,6 +3916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326638427,
             "language": "Go",
             "last_commit": "2024-09-04T01:07:23Z",
             "owner": "mercari",
@@ -3674,6 +3931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191857724,
             "language": "Go",
             "last_commit": "2019-09-09T16:25:54Z",
             "owner": "paraterraform",
@@ -3688,6 +3946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256471290,
             "language": "Python",
             "last_commit": "2026-04-08T21:35:30Z",
             "owner": "cloud-custodian",
@@ -3702,6 +3961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203412589,
             "language": null,
             "last_commit": "2026-08-18T11:50:23Z",
             "owner": "SpotOnInc",
@@ -3716,6 +3976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232096434,
             "language": "Go",
             "last_commit": "2026-06-02T10:53:29Z",
             "owner": "coolapso",
@@ -3730,6 +3991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292871179,
             "language": "Python",
             "last_commit": "2026-03-10T20:05:39Z",
             "owner": "miltlima",
@@ -3744,6 +4006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 775838620,
             "language": "Go",
             "last_commit": "2026-08-17T20:07:08Z",
             "owner": "breml",
@@ -3758,6 +4021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422259624,
             "language": "Go",
             "last_commit": "2024-01-29T15:30:54Z",
             "owner": "oulman",
@@ -3772,6 +4036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92934098,
             "language": "Python",
             "last_commit": "2019-10-17T08:47:23Z",
             "owner": "claranet",
@@ -3786,6 +4051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51754444,
             "language": "Clojure",
             "last_commit": "2018-03-19T09:18:37Z",
             "owner": "MastodonC",
@@ -3800,6 +4066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576986275,
             "language": "Go",
             "last_commit": "2023-11-21T16:52:36Z",
             "owner": "paololazzari",
@@ -3814,8 +4081,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199207720,
             "language": "Shell",
-            "last_commit": "2026-08-17T01:36:34Z",
+            "last_commit": "2026-08-19T12:43:47Z",
             "owner": "nitinjain999",
             "repo": "platform-skills",
             "stars": 36
@@ -3828,6 +4096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602952256,
             "language": "Shell",
             "last_commit": "2024-11-18T12:13:09Z",
             "owner": "jaceq",
@@ -3842,6 +4111,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 387100257,
             "language": "Go",
             "last_commit": "2024-11-23T04:35:03Z",
             "owner": "tfmigrator",
@@ -3856,6 +4126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181093595,
             "language": "Python",
             "last_commit": "2023-03-13T11:09:50Z",
             "owner": "YakDriver",
@@ -3870,6 +4141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1228005845,
             "language": "Python",
             "last_commit": "2026-05-04T04:49:13Z",
             "owner": "Raj-glitch-max",
@@ -3884,6 +4156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351715668,
             "language": "Vue",
             "last_commit": "2022-08-27T07:22:49Z",
             "owner": "cloudandthings",
@@ -3898,6 +4171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628501876,
             "language": "Shell",
             "last_commit": "2023-06-11T20:20:52Z",
             "owner": "ysoftwareab",
@@ -3912,6 +4186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126632289,
             "language": "Shell",
             "last_commit": "2026-02-27T11:24:24Z",
             "owner": "trupositive-ai",
@@ -3926,6 +4201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607351590,
             "language": "Shell",
             "last_commit": "2025-06-29T19:22:16Z",
             "owner": "tfmake",
@@ -3940,6 +4216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116527732,
             "language": "Go",
             "last_commit": "2022-10-07T21:28:41Z",
             "owner": "ketchoop",
@@ -3954,6 +4231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579272958,
             "language": "Go",
             "last_commit": "2026-08-13T17:30:04Z",
             "owner": "spilliams",
@@ -3968,6 +4246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59356550,
             "language": "Go",
             "last_commit": "2017-08-06T16:18:06Z",
             "owner": "shuaibiyy",
@@ -3982,6 +4261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801266356,
             "language": "Rust",
             "last_commit": "2025-03-23T01:14:42Z",
             "owner": "miller-time",
@@ -3996,6 +4276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310545024,
             "language": "Go",
             "last_commit": "2021-12-27T10:53:28Z",
             "owner": "magodo",
@@ -4010,6 +4291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184802008,
             "language": "Go",
             "last_commit": "2026-08-02T21:34:15Z",
             "owner": "chenrui333",
@@ -4024,6 +4306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279485455,
             "language": "Python",
             "last_commit": "2023-10-10T21:03:03Z",
             "owner": "hayorov",
@@ -4038,6 +4321,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 85192372,
             "language": "Ruby",
             "last_commit": "2021-01-15T16:08:11Z",
             "owner": "manheim",
@@ -4052,6 +4336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414712247,
             "language": "Go",
             "last_commit": "2023-06-09T22:42:46Z",
             "owner": "oulman",
@@ -4066,6 +4351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59851939,
             "language": "Ruby",
             "last_commit": "2017-08-18T00:23:33Z",
             "owner": "gina-alaska",
@@ -4080,6 +4366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068948969,
             "language": "Python",
             "last_commit": "2025-10-15T09:23:08Z",
             "owner": "henrybravo",
@@ -4094,6 +4381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156686619,
             "language": "Ruby",
             "last_commit": "2026-07-21T00:06:15Z",
             "owner": "dxw",
@@ -4108,6 +4396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1167132958,
             "language": "Go",
             "last_commit": "2026-08-10T04:51:33Z",
             "owner": "chenrui333",
@@ -4122,6 +4411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151460398,
             "language": "Markdown",
             "last_commit": "2026-03-20T12:40:05Z",
             "owner": "anmolnagpal",
@@ -4136,66 +4426,71 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258129407,
             "language": "JavaScript",
             "last_commit": "2026-07-18T08:33:49Z",
             "owner": "shieldly-io",
             "repo": "cli",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "setup-terraform",
+              "description": "Sets up Terraform CLI in your GitHub Actions workflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258271226,
+                "language": "JavaScript",
+                "last_commit": "2026-07-27T18:02:43Z",
+                "owner": "hashicorp",
+                "repo": "setup-terraform",
+                "stars": 1581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-plan",
+              "description": "GitHub Action to run Terraform plan and add a comment with the changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379599704,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T13:56:44Z",
+                "owner": "cds-snc",
+                "repo": "terraform-plan",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-risk-assessor",
+              "description": "GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222200244,
+                "language": "TypeScript",
+                "last_commit": "2026-04-27T07:12:19Z",
+                "owner": "Liam-Johnston",
+                "repo": "terraform-risk-assessor",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI"
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "setup-terraform",
-          "description": "Sets up Terraform CLI in your GitHub Actions workflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-27T18:02:43Z",
-            "owner": "hashicorp",
-            "repo": "setup-terraform",
-            "stars": 1581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-plan",
-          "description": "GitHub Action to run Terraform plan and add a comment with the changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T13:55:28Z",
-            "owner": "cds-snc",
-            "repo": "terraform-plan",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-risk-assessor",
-          "description": "GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-27T07:12:19Z",
-            "owner": "Liam-Johnston",
-            "repo": "terraform-risk-assessor",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "CI"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4204,6 +4499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23851495,
             "language": "Python",
             "last_commit": "2026-01-20T03:05:37Z",
             "owner": "virtuald",
@@ -4218,6 +4514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202775601,
             "language": "Python",
             "last_commit": "2026-07-18T17:41:50Z",
             "owner": "amplify-education",
@@ -4232,6 +4529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 460095848,
             "language": "Rust",
             "last_commit": "2026-08-09T18:46:30Z",
             "owner": "martinohmann",
@@ -4246,6 +4544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374766273,
             "language": "HCL",
             "last_commit": "2026-01-17T14:42:48Z",
             "owner": "tree-sitter-grammars",
@@ -4260,6 +4559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124907815,
             "language": "Java",
             "last_commit": "2025-08-28T23:09:05Z",
             "owner": "wondrify",
@@ -4274,6 +4574,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22923716,
             "language": "Ruby",
             "last_commit": "2014-09-21T08:10:03Z",
             "owner": "winebarrel",
@@ -4288,6 +4589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641437783,
             "language": "Rust",
             "last_commit": "2026-08-17T09:55:59Z",
             "owner": "Yethal",
@@ -4299,7 +4601,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4308,6 +4610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174820850,
             "language": "JavaScript",
             "last_commit": "2024-05-02T11:39:33Z",
             "owner": "sudokar",
@@ -4322,6 +4625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1227889534,
             "language": "HCL",
             "last_commit": "2026-06-22T15:45:00Z",
             "owner": "sarmakska",
@@ -4333,7 +4637,7 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4342,8 +4646,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563468160,
             "language": "Go",
-            "last_commit": "2026-08-18T08:55:21Z",
+            "last_commit": "2026-08-19T09:33:06Z",
             "owner": "padok-team",
             "repo": "burrito",
             "stars": 750
@@ -4356,6 +4661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373089792,
             "language": "Go",
             "last_commit": "2026-07-16T07:44:39Z",
             "owner": "leg100",
@@ -4370,6 +4676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603527578,
             "language": "Elixir",
             "last_commit": "2026-08-14T18:07:50Z",
             "owner": "Clivern",
@@ -4384,6 +4691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345417975,
             "language": "CSS",
             "last_commit": "2026-04-21T20:53:52Z",
             "owner": "D10S0VSkY-OSS",
@@ -4398,6 +4706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 657338184,
             "language": "Go",
             "last_commit": "2025-10-19T21:04:06Z",
             "owner": "dragondrop-cloud",
@@ -4409,7 +4718,7 @@
       "title": "Self-hosted Terraform Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4418,6 +4727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124249756,
             "language": "Go",
             "last_commit": "2026-03-30T02:23:24Z",
             "owner": "sil-org",
@@ -4432,6 +4742,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 128162523,
             "language": "Ruby",
             "last_commit": "2018-05-23T23:30:41Z",
             "owner": "skierkowski",
@@ -4446,6 +4757,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105706941,
             "language": "Ruby",
             "last_commit": "2018-05-27T04:12:16Z",
             "owner": "skierkowski",
@@ -4457,7 +4769,7 @@
       "title": "Terraform Enterprise Tooling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4466,6 +4778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241463753,
             "language": "Go",
             "last_commit": "2026-08-17T09:54:28Z",
             "owner": "hashicorp",
@@ -4480,6 +4793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27832582,
             "language": "Vim Script",
             "last_commit": "2025-05-24T19:17:27Z",
             "owner": "hashivim",
@@ -4494,6 +4808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185054222,
             "language": "Go",
             "last_commit": "2023-03-06T23:55:37Z",
             "owner": "juliosueiras",
@@ -4508,6 +4823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89657729,
             "language": "Vim script",
             "last_commit": "2022-03-04T13:52:42Z",
             "owner": "juliosueiras",
@@ -4522,6 +4838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22496184,
             "language": "Emacs Lisp",
             "last_commit": "2025-11-15T22:11:02Z",
             "owner": "hcl-emacs",
@@ -4536,6 +4853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137530751,
             "language": "Vim Script",
             "last_commit": "2025-01-10T14:32:04Z",
             "owner": "jvirtanen",
@@ -4545,16 +4863,12 @@
         }
       ],
       "title": "Editor Plugins"
-    },
-    {
-      "description": "To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:26:32.450Z",
+    "last_updated": "2026-08-19T12:57:49.398Z",
     "original_repository": "shuaibiyy/awesome-terraform",
+    "original_repository_id": 58478671,
     "original_repository_sha": "9ef4aca3cebade4b512914e8a9088173da2ee2b1",
     "enhanced_repository": "enhansome/enhansome-terraform",
     "enhanced_repository_description": null,
