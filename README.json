@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-19T12:52:24Z",
+            "last_commit": "2026-08-19T13:23:51Z",
             "owner": "hashicorp",
             "repo": "terraform",
             "stars": 49486
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T05:56:41Z",
             "owner": "antonbabenko",
             "repo": "terraform-skill",
-            "stars": 2285
+            "stars": 2286
           }
         },
         {
@@ -1112,7 +1112,7 @@
                 "archived": false,
                 "id": 93444615,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:48:48Z",
+                "last_commit": "2026-08-19T13:15:09Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-aws",
                 "stars": 11046
@@ -1704,7 +1704,7 @@
                 "archived": false,
                 "id": 190869910,
                 "language": "Go",
-                "last_commit": "2026-08-19T05:18:31Z",
+                "last_commit": "2026-08-19T13:09:30Z",
                 "owner": "buildkite",
                 "repo": "terraform-provider-buildkite",
                 "stars": 56
@@ -1839,7 +1839,7 @@
                 "archived": false,
                 "id": 426566427,
                 "language": "Go",
-                "last_commit": "2026-08-19T08:07:13Z",
+                "last_commit": "2026-08-19T13:16:21Z",
                 "owner": "Qovery",
                 "repo": "terraform-provider-qovery",
                 "stars": 18
@@ -2148,7 +2148,7 @@
             "archived": false,
             "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-19T12:52:24Z",
+            "last_commit": "2026-08-19T13:23:51Z",
             "owner": "hashicorp",
             "repo": "terraform",
             "stars": 49486
@@ -2583,7 +2583,7 @@
             "archived": false,
             "id": 292427680,
             "language": "Go",
-            "last_commit": "2026-08-19T10:46:39Z",
+            "last_commit": "2026-08-19T13:17:29Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1355
@@ -4866,7 +4866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:49.398Z",
+    "last_updated": "2026-08-19T13:27:51.531Z",
     "original_repository": "shuaibiyy/awesome-terraform",
     "original_repository_id": 58478671,
     "original_repository_sha": "9ef4aca3cebade4b512914e8a9088173da2ee2b1",

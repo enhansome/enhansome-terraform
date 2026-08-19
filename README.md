@@ -63,7 +63,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Community
 
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues) ⭐ 49,486 | 🐛 1,917 | 🌐 Go | 📅 2026-08-19
-* [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) ⭐ 2,285 | 🐛 2 | 📅 2026-07-03 - Claude Code skill for Terraform and OpenTofu — testing, module design, CI/CD workflows, and production patterns.
+* [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) ⭐ 2,286 | 🐛 2 | 📅 2026-07-03 - Claude Code skill for Terraform and OpenTofu — testing, module design, CI/CD workflows, and production patterns.
 * [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) ⭐ 380 | 🐛 1 | 🌐 HCL | 📅 2022-02-09 :skull:
 * [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf) ⭐ 211 | 🐛 6 | 🌐 Shell | 📅 2026-05-08 :skull:
 * [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) ⭐ 142 | 🐛 0 | 📅 2026-07-29 - Curated list of tools, frameworks, and resources for Terraform compliance and security.
@@ -282,7 +282,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-github](https://github.com/integrations/terraform-provider-github) ⭐ 1,158 | 🐛 335 | 🌐 Go | 📅 2026-08-17 - Provider for GitHub.
 * [terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) ⭐ 942 | 🐛 342 | 🌐 Go | 📅 2026-08-17 - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 * [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) ⭐ 732 | 🐛 57 | 🌐 Go | 📅 2026-08-17 - Provider for Hetzner Cloud.
-* [terraform-provider-snowflake](https://github.com/snowflakedb/terraform-provider-snowflake) ⭐ 692 | 🐛 245 | 🌐 Go | 📅 2026-08-18 - Provider for Snowflake data warehouse.
+* [terraform-provider-snowflake](https://github.com/snowflakedb/terraform-provider-snowflake) ⭐ 692 | 🐛 246 | 🌐 Go | 📅 2026-08-18 - Provider for Snowflake data warehouse.
 * [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ⭐ 659 | 🐛 785 | 🌐 Go | 📅 2026-08-19 - Provider for Alibaba Cloud.
 * [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) ⭐ 568 | 🐛 187 | 🌐 Go | 📅 2026-08-18 - Provider for DigitalOcean.
 * [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) ⭐ 473 | 🐛 211 | 🌐 Go | 📅 2026-08-10 - Plugin for OpenStack.
@@ -310,7 +310,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-coder](https://github.com/coder/terraform-provider-coder) ⭐ 60 | 🐛 46 | 🌐 Go | 📅 2026-08-18 - Provider for [Coder](https://coder.com)
 * [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) ⭐ 59 | 🐛 6 | 🌐 Go | 📅 2026-08-05 - Provider for GraphQL queries and mutations.
 * [terraform-provider-confluent](https://github.com/confluentinc/terraform-provider-confluent) ⭐ 58 | 🐛 122 | 🌐 Go | 📅 2026-08-19 - Provider for Confluent.
-* [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) ⭐ 56 | 🐛 11 | 🌐 Go | 📅 2026-08-19 - Provider for Buildkite.
+* [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) ⭐ 56 | 🐛 12 | 🌐 Go | 📅 2026-08-19 - Provider for Buildkite.
 * [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) ⚠️ Archived - Provider for SecretHub. :skull:
 * [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) ⭐ 44 | 🐛 8 | 🌐 Go | 📅 2026-07-30 - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 * [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) ⭐ 40 | 🐛 11 | 🌐 Go | 📅 2026-02-05 - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
@@ -321,7 +321,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) ⭐ 19 | 🐛 5 | 🌐 Go | 📅 2026-08-18 - Provider for [Scalr](https://www.scalr.com/)
 * [terraform-provider-qovery](https://github.com/Qovery/terraform-provider-qovery) ⭐ 18 | 🐛 11 | 🌐 Go | 📅 2026-08-19 - Provider for [Qovery](https://www.qovery.com/) — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.
 * [terraform-provider-phare](https://github.com/phare/terraform-provider-phare) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-08-14 -  Terraform provider for [Phare](https://phare.io).
-* [terraform-provider-devhelm](https://github.com/devhelmhq/terraform-provider-devhelm) ⭐ 0 | 🐛 29 | 🌐 Go | 📅 2026-06-15 - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
+* [terraform-provider-devhelm](https://github.com/devhelmhq/terraform-provider-devhelm) ⭐ 0 | 🐛 30 | 🌐 Go | 📅 2026-06-15 - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
 
 ### Community providers
 
