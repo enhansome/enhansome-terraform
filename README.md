@@ -131,6 +131,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 
 ### How-To
 
+* [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) ⭐ 50 | 🐛 0 | 🌐 HCL | 📅 2021-07-15 - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 * [How To Write OPA for Terraform](https://scalr.com/learning-center/opa-series-part-1-open-policy-agent-and-terraform) - How to use Open Policy Agent to evaluate and enforce policy on your Terraform plans
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/en/blog/deploying-discourse-with-terraform) - Shows how Terraform can create a running instance of Discourse on DigitalOcean in one command.
 * [Deploying Django to AWS ECS with Terraform](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/) - Looks at how to use Terraform to spin up the required AWS infrastructure for running a Django app on ECS.
@@ -139,7 +140,6 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 * [Terraforming 1Password](https://1password.com/blog/terraforming-1password) - How 1Password migrated from CloudFormation to Terraform.
 * [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
 * [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/en/blog/zero-downtime-updates-with-terraform) - Ensuring zero downtime of your infrastructure.
-* [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) ⭐ 50 | 🐛 0 | 🌐 HCL | 📅 2021-07-15 - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 * [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://medium.com/better-programming/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 * [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasy.com/blog/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
 * [How to Build an AWS Account Vending Machine](https://medium.com/@StackGuardian/how-to-build-an-aws-account-vending-machine-by-stackguardian-f2895e35a27b) - Automated, self-service AWS account lifecycle management using Terraform stacks orchestrated by StackGuardian, with SSM-based allocation, EventBridge cleanup triggers, and Tirith policy enforcement.
@@ -163,21 +163,21 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 
 ### Google Cloud
 
+* [Self-host n8n on Google Cloud Run](https://github.com/datawranglerai/self-host-n8n-on-gcr) ⭐ 612 | 🐛 0 | 🌐 HCL | 📅 2026-05-13 - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 * [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://docs.cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code) - Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps.
 * [Getting started with Terraform on Google Cloud](https://docs.cloud.google.com/docs/terraform/create-vm-instance) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
 * [Managing Cloud Infrastructure with Terraform](https://www.skills.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
 * [Hashicorp Terraform Tutorials for Google Cloud](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started) - Get started with Terraform on Google Cloud.
 * [IAC - Terraform and Terragrunt on Google Cloud](https://www.academeez.com/courses/terraform) - Open source MIT Licensed course about creating infrastructure on Google Cloud using Terraform/OpenTofu and Terragrunt
-* [Self-host n8n on Google Cloud Run](https://github.com/datawranglerai/self-host-n8n-on-gcr) ⭐ 612 | 🐛 0 | 🌐 HCL | 📅 2026-05-13 - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 
 ### Miscellaneous
 
+* [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) ⭐ 727 | 🐛 10 | 🌐 jq | 📅 2023-06-01 - Anonymized, free cost estimation from a Terraform plan (0.12+) or state file. Also available in the browser at [terraform-cost-estimation.com](https://terraform-cost-estimation.com).
 * [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 * [The Segment AWS Stack](https://web.archive.org/web/20250322120753/https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 * [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
-* [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) ⭐ 727 | 🐛 10 | 🌐 jq | 📅 2023-06-01 - Anonymized, free cost estimation from a Terraform plan (0.12+) or state file. Also available in the browser at [terraform-cost-estimation.com](https://terraform-cost-estimation.com).
 * [How to Debug Terraform Projects: Tutorial](https://spacelift.io/blog/terraform-debug)
 
 ## Community Modules
@@ -268,7 +268,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Hashicorp supported providers
 
-* [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 11,047 | 🐛 3,587 | 🌐 Go | 📅 2026-08-24 - Provider for Amazon Web Services.
+* [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 11,047 | 🐛 3,586 | 🌐 Go | 📅 2026-08-24 - Provider for Amazon Web Services.
 * [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ⭐ 4,972 | 🐛 3,951 | 🌐 Go | 📅 2026-08-24 - Provider for Azure.
 * [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ⭐ 2,643 | 🐛 2,595 | 🌐 Go | 📅 2026-08-24 - Provider for Google Cloud Platform.
 * [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) ⭐ 1,720 | 🐛 207 | 🌐 Go | 📅 2026-08-21 - Provider for Kubernetes.
@@ -522,14 +522,14 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### VS Code Extensions
 
-* [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 * [vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph) ⭐ 238 | 🐛 16 | 🌐 TypeScript | 📅 2023-06-12 - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+* [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 * [tf-nav](https://marketplace.visualstudio.com/items?itemName=owenrumney.tf-nav) - Terraform Navigation Extension to created an index of resources by type of file with an easy to navigate treeview.
 
 ## Libraries
 
 * [pyhcl](https://github.com/virtuald/pyhcl) ⭐ 341 | 🐛 12 | 🌐 Python | 📅 2026-01-20 - HCL parser in Python
-* [python-hcl2](https://github.com/amplify-education/python-hcl2/) ⭐ 316 | 🐛 20 | 🌐 Python | 📅 2026-07-18 - HCL2 parser in Python
+* [python-hcl2](https://github.com/amplify-education/python-hcl2/) ⭐ 316 | 🐛 21 | 🌐 Python | 📅 2026-07-18 - HCL2 parser in Python
 * [hcl-rs](https://github.com/martinohmann/hcl-rs) ⭐ 183 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - HCL parsing and encoding libraries for rust with serde support
 * [tree-sitter-hcl](https://github.com/tree-sitter-grammars/tree-sitter-hcl) ⭐ 145 | 🐛 8 | 🌐 HCL | 📅 2026-01-17 - HCL grammar for tree-sitter
 * [hcl4j](https://github.com/wondrify/hcl4j) ⭐ 74 | 🐛 12 | 🌐 Java | 📅 2025-08-28 - HCL parser in Java

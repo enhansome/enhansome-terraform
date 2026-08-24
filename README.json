@@ -112,6 +112,100 @@
       "title": "Community"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Cloud Platform for 10$ a month using terraform",
+              "description": "Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than 10$ a month.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327711890,
+                "language": "HCL",
+                "last_commit": "2021-07-15T17:33:39Z",
+                "owner": "nufailtd",
+                "repo": "terraform-budget-gcp",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "How-To"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS Lambda the Terraform Way",
+              "description": "Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320584633,
+                "language": "Markdown",
+                "last_commit": "2021-05-08T12:38:52Z",
+                "owner": "nsriram",
+                "repo": "lambda-the-terraform-way",
+                "stars": 1259
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Self-host n8n on Google Cloud Run",
+              "description": "Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949197602,
+                "language": "HCL",
+                "last_commit": "2026-05-13T07:26:30Z",
+                "owner": "datawranglerai",
+                "repo": "self-host-n8n-on-gcr",
+                "stars": 612
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Terraform cost estimation",
+              "description": "Anonymized, free cost estimation from a Terraform plan (0.12+) or state file. Also available in the browser at terraform-cost-estimation.com.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260142643,
+                "language": "jq",
+                "last_commit": "2023-06-01T13:14:47Z",
+                "owner": "antonbabenko",
+                "repo": "terraform-cost-estimation",
+                "stars": 727
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
+      "title": "Tutorials and Blog Posts"
+    },
+    {
       "description": "For more Community Modules not listed here please see the Terraform Module Registry.",
       "items": [
         {
@@ -1112,7 +1206,7 @@
                 "archived": false,
                 "id": 93444615,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:07:31Z",
+                "last_commit": "2026-08-24T13:51:47Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-aws",
                 "stars": 11047
@@ -1284,7 +1378,7 @@
                 "archived": false,
                 "id": 165926555,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:33:31Z",
+                "last_commit": "2026-08-24T13:51:18Z",
                 "owner": "snowflakedb",
                 "repo": "terraform-provider-snowflake",
                 "stars": 693
@@ -1644,7 +1738,7 @@
                 "archived": false,
                 "id": 93446112,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:21:08Z",
+                "last_commit": "2026-08-24T13:43:45Z",
                 "owner": "spotinst",
                 "repo": "terraform-provider-spotinst",
                 "stars": 64
@@ -2583,7 +2677,7 @@
             "archived": false,
             "id": 292427680,
             "language": "Go",
-            "last_commit": "2026-08-24T13:17:22Z",
+            "last_commit": "2026-08-24T13:43:04Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1361
@@ -4485,6 +4579,28 @@
           "description": null,
           "node_type": "group",
           "title": "CI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vscode-terraform-live-graph",
+              "description": "Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611937513,
+                "language": "TypeScript",
+                "last_commit": "2023-06-12T10:28:33Z",
+                "owner": "adamiBs",
+                "repo": "vscode-terraform-live-graph",
+                "stars": 238
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VS Code Extensions"
         }
       ],
       "title": "Tools"
@@ -4866,7 +4982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:33:34.434Z",
+    "last_updated": "2026-08-24T13:54:28.022Z",
     "original_repository": "shuaibiyy/awesome-terraform",
     "original_repository_id": 58478671,
     "original_repository_sha": "9ef4aca3cebade4b512914e8a9088173da2ee2b1",
