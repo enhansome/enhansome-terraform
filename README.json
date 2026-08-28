@@ -12,11 +12,12 @@
             "archived": false,
             "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-27T21:20:59Z",
+            "last_commit": "2026-08-28T21:50:59Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49554
-          }
+            "stars": 49563
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-03T05:56:41Z",
             "owner": "antonbabenko",
             "repo": "terraform-skill",
-            "stars": 2309
-          }
+            "stars": 2310
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "antonbabenko",
             "repo": "terragrunt-reference-architecture",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "antonbabenko",
             "repo": "terraform-docs-as-pdf",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "antonbabenko",
             "repo": "awesome-terraform-compliance",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "terraform-aws-modules",
             "repo": "meta",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dohsimpson",
             "repo": "terraform-doc-pdf",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Community"
@@ -129,7 +136,8 @@
                 "owner": "nufailtd",
                 "repo": "terraform-budget-gcp",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -151,7 +159,8 @@
                 "owner": "nsriram",
                 "repo": "lambda-the-terraform-way",
                 "stars": 1259
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -172,8 +181,9 @@
                 "last_commit": "2026-05-13T07:26:30Z",
                 "owner": "datawranglerai",
                 "repo": "self-host-n8n-on-gcr",
-                "stars": 614
-              }
+                "stars": 616
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -195,7 +205,8 @@
                 "owner": "antonbabenko",
                 "repo": "terraform-cost-estimation",
                 "stars": 727
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -220,8 +231,9 @@
             "last_commit": "2026-08-14T20:49:44Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-eks",
-            "stars": 4998
-          }
+            "stars": 4999
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -232,11 +244,12 @@
             "archived": false,
             "id": 101660954,
             "language": "HCL",
-            "last_commit": "2026-08-27T20:34:03Z",
+            "last_commit": "2026-08-28T16:27:42Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-vpc",
             "stars": 3257
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -251,7 +264,8 @@
             "owner": "segmentio",
             "repo": "stack",
             "stars": 2087
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -266,7 +280,8 @@
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2052
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -281,7 +296,8 @@
             "owner": "nozaq",
             "repo": "terraform-aws-secure-baseline",
             "stars": 1200
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -296,7 +312,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
             "stars": 1045
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -311,7 +328,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-rds",
             "stars": 962
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -325,8 +343,9 @@
             "last_commit": "2026-07-10T17:23:18Z",
             "owner": "terraform-google-modules",
             "repo": "terraform-google-project-factory",
-            "stars": 961
-          }
+            "stars": 962
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-ec2-instance",
             "stars": 811
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -356,7 +376,8 @@
             "owner": "kbst",
             "repo": "terraform-kubestack",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -371,7 +392,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-ecs",
             "stars": 674
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -386,7 +408,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-security-group",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -401,7 +424,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-s3-bucket",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -416,7 +440,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-atlantis",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -431,7 +456,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-notify-slack",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -446,7 +472,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-alb",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -461,7 +488,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-rds-aurora",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -476,7 +504,8 @@
             "owner": "nix-community",
             "repo": "terraform-nixos",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -491,7 +520,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-autoscaling",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -506,7 +536,8 @@
             "owner": "cloudposse-archives",
             "repo": "terraform-aws-jenkins",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -521,7 +552,8 @@
             "owner": "joshuamkite",
             "repo": "terraform-aws-ssh-bastion-service",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -536,7 +568,8 @@
             "owner": "cloudposse",
             "repo": "terraform-aws-ecr",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -551,7 +584,8 @@
             "owner": "terraform-community-modules",
             "repo": "tf_aws_bastion_s3_keys",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -566,7 +600,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-transit-gateway",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -581,7 +616,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-eventbridge",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -596,7 +632,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-route53",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -611,7 +648,8 @@
             "owner": "cloudposse",
             "repo": "terraform-aws-key-pair",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -626,7 +664,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-elb",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -641,7 +680,8 @@
             "owner": "adinhodovic",
             "repo": "terraform-cloudflare-maintenance",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -656,7 +696,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-dynamodb-table",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -671,7 +712,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-vpn-gateway",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -686,7 +728,8 @@
             "owner": "shuaibiyy",
             "repo": "terraform-ecs-jenkins",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -701,7 +744,8 @@
             "owner": "cloudposse",
             "repo": "terraform-aws-efs",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -716,7 +760,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-redshift",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -731,7 +776,8 @@
             "owner": "azavea",
             "repo": "terraform-aws-postgresql-rds",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -746,7 +792,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-dms",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -761,7 +808,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-datadog-forwarders",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -776,7 +824,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-msk-kafka-cluster",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -791,7 +840,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-rds-proxy",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -806,7 +856,8 @@
             "owner": "sergej-brazdeikis",
             "repo": "terraform-static-website-s3-cloudfront",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -821,7 +872,8 @@
             "owner": "runatlantis",
             "repo": "terraform-gce-atlantis",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -836,7 +888,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-managed-service-prometheus",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -851,7 +904,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-appconfig",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -866,7 +920,8 @@
             "owner": "nozaq",
             "repo": "terraform-aws-lambda-auto-package",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -881,7 +936,8 @@
             "owner": "lunagt",
             "repo": "rancher-terraform-digitalocean",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -896,7 +952,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-customer-gateway",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -911,7 +968,8 @@
             "owner": "metadevpro",
             "repo": "terraform-azurerm-sqlserver-seed",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -926,7 +984,8 @@
             "owner": "neiman-marcus",
             "repo": "terraform-aws-jenkins-ha-agents",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -941,7 +1000,8 @@
             "owner": "ghostinthewires",
             "repo": "terraform-azurerm-iis-install",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -956,7 +1016,8 @@
             "owner": "be-bold",
             "repo": "terraform-aws-account-lookup",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -971,7 +1032,8 @@
             "owner": "nis2shield",
             "repo": "infrastructure",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -986,7 +1048,8 @@
             "owner": "foreverXZC",
             "repo": "terraform-azurerm-mysql",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1001,7 +1064,8 @@
             "owner": "rahulkhengare",
             "repo": "terraform-azurerm-redis",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1016,7 +1080,8 @@
             "owner": "kjanshair",
             "repo": "terraform-azurerm-aks",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Community Modules"
@@ -1037,7 +1102,8 @@
             "owner": "outsideris",
             "repo": "citizen",
             "stars": 654
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1051,8 +1117,9 @@
             "last_commit": "2026-08-26T10:45:20Z",
             "owner": "terralist",
             "repo": "terralist",
-            "stars": 513
-          }
+            "stars": 515
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1067,7 +1134,8 @@
             "owner": "MatthewJohn",
             "repo": "terrareg",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1078,11 +1146,12 @@
             "archived": false,
             "id": 315339738,
             "language": "Go",
-            "last_commit": "2026-08-27T00:07:58Z",
+            "last_commit": "2026-08-28T22:34:15Z",
             "owner": "boring-registry",
             "repo": "boring-registry",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1093,11 +1162,12 @@
             "archived": false,
             "id": 569890667,
             "language": "Java",
-            "last_commit": "2026-08-27T16:44:01Z",
+            "last_commit": "2026-08-28T14:56:30Z",
             "owner": "PacoVK",
             "repo": "tapir",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1112,7 +1182,8 @@
             "owner": "erikvanbrakel",
             "repo": "anthology",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1127,7 +1198,8 @@
             "owner": "nrkno",
             "repo": "terraform-registry",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1142,7 +1214,8 @@
             "owner": "philips-labs",
             "repo": "terraform-registry",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1157,7 +1230,8 @@
             "owner": "veepee-oss",
             "repo": "terustry",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1172,7 +1246,8 @@
             "owner": "apparentlymart",
             "repo": "terraform-simple-registry",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -1187,7 +1262,8 @@
             "owner": "devoteamgcloud",
             "repo": "petra",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Self-Hosted Registries"
@@ -1206,11 +1282,12 @@
                 "archived": false,
                 "id": 93444615,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:19:09Z",
+                "last_commit": "2026-08-28T20:25:18Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-aws",
                 "stars": 11047
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1221,11 +1298,12 @@
                 "archived": false,
                 "id": 93446042,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:54:09Z",
+                "last_commit": "2026-08-28T21:22:49Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-azurerm",
                 "stars": 4973
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1236,11 +1314,12 @@
                 "archived": false,
                 "id": 93446075,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:55:06Z",
+                "last_commit": "2026-08-28T19:47:00Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-google",
-                "stars": 2641
-              }
+                "stars": 2642
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1255,7 +1334,8 @@
                 "owner": "hashicorp",
                 "repo": "terraform-provider-kubernetes",
                 "stars": 1720
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1266,11 +1346,12 @@
                 "archived": false,
                 "id": 95368512,
                 "language": "Go",
-                "last_commit": "2026-07-10T17:16:36Z",
+                "last_commit": "2026-08-28T14:37:17Z",
                 "owner": "hashicorp",
                 "repo": "terraform-provider-helm",
                 "stars": 1077
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1284,8 +1365,9 @@
                 "last_commit": "2026-08-24T17:47:01Z",
                 "owner": "vmware",
                 "repo": "terraform-provider-vsphere",
-                "stars": 672
-              }
+                "stars": 673
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1300,7 +1382,8 @@
                 "owner": "hashicorp",
                 "repo": "terraform-provider-docker",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -1322,7 +1405,8 @@
                 "owner": "nat-henderson",
                 "repo": "terraform-provider-dominos",
                 "stars": 1180
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1336,8 +1420,9 @@
                 "last_commit": "2026-08-27T03:33:43Z",
                 "owner": "integrations",
                 "repo": "terraform-provider-github",
-                "stars": 1163
-              }
+                "stars": 1162
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1348,11 +1433,12 @@
                 "archived": false,
                 "id": 147036024,
                 "language": "Go",
-                "last_commit": "2026-08-24T04:43:59Z",
+                "last_commit": "2026-08-28T14:24:33Z",
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
-                "stars": 945
-              }
+                "stars": 946
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1363,11 +1449,12 @@
                 "archived": false,
                 "id": 136213126,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:13:43Z",
+                "last_commit": "2026-08-28T08:12:18Z",
                 "owner": "hetznercloud",
                 "repo": "terraform-provider-hcloud",
                 "stars": 736
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1378,11 +1465,12 @@
                 "archived": false,
                 "id": 165926555,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:51:34Z",
+                "last_commit": "2026-08-28T11:34:06Z",
                 "owner": "snowflakedb",
                 "repo": "terraform-provider-snowflake",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1393,11 +1481,12 @@
                 "archived": false,
                 "id": 93446083,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:26:41Z",
+                "last_commit": "2026-08-28T09:49:36Z",
                 "owner": "aliyun",
                 "repo": "terraform-provider-alicloud",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1412,7 +1501,8 @@
                 "owner": "digitalocean",
                 "repo": "terraform-provider-digitalocean",
                 "stars": 568
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1427,7 +1517,8 @@
                 "owner": "terraform-provider-openstack",
                 "repo": "terraform-provider-openstack",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1438,11 +1529,12 @@
                 "archived": false,
                 "id": 93446053,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:55:53Z",
+                "last_commit": "2026-08-28T20:27:09Z",
                 "owner": "DataDog",
                 "repo": "terraform-provider-datadog",
                 "stars": 465
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1549,8 @@
                 "owner": "gitlabhq",
                 "repo": "terraform-provider-gitlab",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1468,11 +1561,12 @@
                 "archived": false,
                 "id": 273244625,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:58:25Z",
+                "last_commit": "2026-08-28T02:44:39Z",
                 "owner": "microsoft",
                 "repo": "terraform-provider-azuredevops",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1483,11 +1577,12 @@
                 "archived": false,
                 "id": 94801963,
                 "language": "Go",
-                "last_commit": "2026-08-25T13:56:36Z",
+                "last_commit": "2026-08-28T07:21:32Z",
                 "owner": "IBM-Cloud",
                 "repo": "terraform-provider-ibm",
-                "stars": 360
-              }
+                "stars": 359
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1597,8 @@
                 "owner": "iterative",
                 "repo": "terraform-provider-iterative",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1613,8 @@
                 "owner": "rancher",
                 "repo": "terraform-provider-rancher2",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1528,11 +1625,12 @@
                 "archived": false,
                 "id": 288509997,
                 "language": "Go",
-                "last_commit": "2026-08-27T04:52:07Z",
+                "last_commit": "2026-08-28T09:01:11Z",
                 "owner": "jfrog",
                 "repo": "terraform-provider-artifactory",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1645,8 @@
                 "owner": "franckverrot",
                 "repo": "terraform-provider-stripe",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1558,11 +1657,12 @@
                 "archived": false,
                 "id": 409095307,
                 "language": "Go",
-                "last_commit": "2026-08-27T05:52:14Z",
+                "last_commit": "2026-08-28T04:01:37Z",
                 "owner": "Azure",
                 "repo": "terraform-provider-azapi",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1573,11 +1673,12 @@
                 "archived": false,
                 "id": 421774239,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:23:49Z",
+                "last_commit": "2026-08-28T20:52:13Z",
                 "owner": "elastic",
                 "repo": "terraform-provider-elasticstack",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1693,8 @@
                 "owner": "armory-io",
                 "repo": "terraform-provider-spinnaker",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1607,7 +1709,8 @@
                 "owner": "banzaicloud",
                 "repo": "terraform-provider-k8s",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1622,7 +1725,8 @@
                 "owner": "louy",
                 "repo": "terraform-provider-uptimerobot",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1637,7 +1741,8 @@
                 "owner": "russellcardullo",
                 "repo": "terraform-provider-pingdom",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1652,7 +1757,8 @@
                 "owner": "PaloAltoNetworks",
                 "repo": "terraform-provider-panos",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1773,8 @@
                 "owner": "heroku",
                 "repo": "terraform-provider-heroku",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1789,8 @@
                 "owner": "ucloud",
                 "repo": "terraform-provider-ucloud",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1696,8 +1804,9 @@
                 "last_commit": "2026-03-19T01:38:48Z",
                 "owner": "kristofferahl",
                 "repo": "terraform-provider-healthchecksio",
-                "stars": 71
-              }
+                "stars": 72
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1821,8 @@
                 "owner": "btobolaski",
                 "repo": "terraform-provider-linode",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1837,8 @@
                 "owner": "ariga",
                 "repo": "terraform-provider-atlas",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1853,8 @@
                 "owner": "spotinst",
                 "repo": "terraform-provider-spotinst",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1869,8 @@
                 "owner": "coder",
                 "repo": "terraform-provider-coder",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1885,8 @@
                 "owner": "sullivtr",
                 "repo": "terraform-provider-graphql",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1783,11 +1897,12 @@
                 "archived": false,
                 "id": 486261159,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:00:51Z",
+                "last_commit": "2026-08-28T21:31:26Z",
                 "owner": "confluentinc",
                 "repo": "terraform-provider-confluent",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1798,11 +1913,12 @@
                 "archived": false,
                 "id": 190869910,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:52:37Z",
+                "last_commit": "2026-08-28T21:07:35Z",
                 "owner": "buildkite",
                 "repo": "terraform-provider-buildkite",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1933,8 @@
                 "owner": "secrethub",
                 "repo": "terraform-provider-secrethub",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1832,7 +1949,8 @@
                 "owner": "checkly",
                 "repo": "terraform-provider-checkly",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1847,7 +1965,8 @@
                 "owner": "sumup-oss",
                 "repo": "terraform-provider-vaulted",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1862,7 +1981,8 @@
                 "owner": "env0",
                 "repo": "terraform-provider-env0",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1877,7 +1997,8 @@
                 "owner": "planetscale",
                 "repo": "terraform-provider-planetscale",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1892,7 +2013,8 @@
                 "owner": "signalsciences",
                 "repo": "terraform-provider-sigsci",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2029,8 @@
                 "owner": "splunk",
                 "repo": "terraform-provider-scp",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2045,8 @@
                 "owner": "Scalr",
                 "repo": "terraform-provider-scalr",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1933,11 +2057,12 @@
                 "archived": false,
                 "id": 426566427,
                 "language": "Go",
-                "last_commit": "2026-08-26T09:46:13Z",
+                "last_commit": "2026-08-28T16:04:08Z",
                 "owner": "Qovery",
                 "repo": "terraform-provider-qovery",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1952,7 +2077,8 @@
                 "owner": "phare",
                 "repo": "terraform-provider-phare",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -1967,7 +2093,8 @@
                 "owner": "devhelmhq",
                 "repo": "terraform-provider-devhelm",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -1988,8 +2115,9 @@
                 "last_commit": "2026-08-25T21:04:43Z",
                 "owner": "Telmate",
                 "repo": "terraform-provider-proxmox",
-                "stars": 2946
-              }
+                "stars": 2947
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2000,11 +2128,12 @@
                 "archived": false,
                 "id": 310596153,
                 "language": "Go",
-                "last_commit": "2026-08-25T19:16:16Z",
+                "last_commit": "2026-08-28T19:43:58Z",
                 "owner": "kreuzwerker",
                 "repo": "terraform-provider-docker",
                 "stars": 817
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2019,7 +2148,8 @@
                 "owner": "aminueza",
                 "repo": "terraform-provider-minio",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2034,7 +2164,24 @@
                 "owner": "devops-rob",
                 "repo": "terraform-provider-terracurl",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-coolify",
+              "description": "Terraform provider for Coolify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233556139,
+                "language": null,
+                "last_commit": "2026-08-28T22:35:30Z",
+                "owner": "coolify-terraform",
+                "repo": "terraform-provider-coolify",
+                "stars": 19
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2049,22 +2196,8 @@
                 "owner": "pseudo-dynamic",
                 "repo": "terraform-provider-value",
                 "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "terraform-provider-coolify",
-              "description": "Terraform provider for Coolify.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1233556139,
-                "language": "Go",
-                "last_commit": "2026-08-23T17:35:07Z",
-                "owner": "coolify-terraform",
-                "repo": "terraform-provider-coolify",
-                "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2212,8 @@
                 "owner": "todoroff",
                 "repo": "terraform-provider-multipass",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2228,8 @@
                 "owner": "cloudopsworks",
                 "repo": "terraform-provider-openrouter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2244,8 @@
                 "owner": "plancost",
                 "repo": "terraform-provider-plancost",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2260,8 @@
                 "owner": "julienlevasseur",
                 "repo": "terraform-provider-uname",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2139,7 +2276,8 @@
                 "owner": "elevenode",
                 "repo": "terraform-provider-appstore",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -2154,7 +2292,8 @@
                 "owner": "elevenode",
                 "repo": "terraform-provider-expo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -2179,8 +2318,9 @@
             "last_commit": "2026-08-25T03:18:57Z",
             "owner": "gruntwork-io",
             "repo": "terratest",
-            "stars": 7943
-          }
+            "stars": 7944
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2195,7 +2335,8 @@
             "owner": "terraform-compliance",
             "repo": "cli",
             "stars": 1461
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2210,7 +2351,8 @@
             "owner": "newcontext-oss",
             "repo": "kitchen-terraform",
             "stars": 1121
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2225,7 +2367,8 @@
             "owner": "elmundio87",
             "repo": "terraform_validate",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2240,7 +2383,8 @@
             "owner": "xchapter7x",
             "repo": "clarity",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2255,7 +2399,8 @@
             "owner": "bsnape",
             "repo": "rspec-terraform",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Testing"
@@ -2272,11 +2417,12 @@
             "archived": false,
             "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-27T21:20:59Z",
+            "last_commit": "2026-08-28T21:50:59Z",
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49554
-          }
+            "stars": 49563
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2290,8 +2436,9 @@
             "last_commit": "2026-08-24T14:26:09Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12493
-          }
+            "stars": 12495
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2302,11 +2449,12 @@
             "archived": false,
             "id": 59522149,
             "language": "Go",
-            "last_commit": "2026-08-27T22:28:37Z",
+            "last_commit": "2026-08-28T20:13:42Z",
             "owner": "gruntwork-io",
             "repo": "terragrunt",
             "stars": 9809
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2317,11 +2465,12 @@
             "archived": false,
             "id": 120519269,
             "language": "Go",
-            "last_commit": "2026-08-27T05:15:58Z",
+            "last_commit": "2026-08-28T17:47:50Z",
             "owner": "runatlantis",
             "repo": "atlantis",
-            "stars": 9257
-          }
+            "stars": 9261
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2335,8 +2484,9 @@
             "last_commit": "2026-08-27T00:07:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8973
-          }
+            "stars": 8976
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2350,8 +2500,9 @@
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
             "repo": "tfsec",
-            "stars": 7035
-          }
+            "stars": 7034
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2365,8 +2516,9 @@
             "last_commit": "2026-08-26T00:43:56Z",
             "owner": "terraform-linters",
             "repo": "tflint",
-            "stars": 5797
-          }
+            "stars": 5796
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2381,7 +2533,8 @@
             "owner": "tenable",
             "repo": "terrascan",
             "stars": 5211
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2396,7 +2549,8 @@
             "owner": "hashicorp",
             "repo": "terraform-cdk",
             "stars": 5074
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2410,8 +2564,9 @@
             "last_commit": "2026-07-01T17:32:52Z",
             "owner": "tfutils",
             "repo": "tfenv",
-            "stars": 4965
-          }
+            "stars": 4966
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2425,8 +2580,9 @@
             "last_commit": "2026-08-03T06:52:24Z",
             "owner": "terraform-docs",
             "repo": "terraform-docs",
-            "stars": 4815
-          }
+            "stars": 4817
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2441,7 +2597,8 @@
             "owner": "dtan4",
             "repo": "terraforming",
             "stars": 4255
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2455,8 +2612,9 @@
             "last_commit": "2026-03-24T10:56:24Z",
             "owner": "gofireflyio",
             "repo": "aiac",
-            "stars": 3786
-          }
+            "stars": 3787
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2470,8 +2628,9 @@
             "last_commit": "2026-08-26T17:55:03Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3760
-          }
+            "stars": 3762
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2486,7 +2645,8 @@
             "owner": "terramate-io",
             "repo": "terramate",
             "stars": 3621
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2500,8 +2660,9 @@
             "last_commit": "2025-07-30T03:34:48Z",
             "owner": "im2nguyen",
             "repo": "rover",
-            "stars": 3318
-          }
+            "stars": 3319
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2515,8 +2676,9 @@
             "last_commit": "2026-08-25T21:02:29Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2695
-          }
+            "stars": 2696
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2530,8 +2692,9 @@
             "last_commit": "2026-08-27T01:01:16Z",
             "owner": "snyk",
             "repo": "driftctl",
-            "stars": 2660
-          }
+            "stars": 2661
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2545,8 +2708,9 @@
             "last_commit": "2026-07-07T22:53:58Z",
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2411
-          }
+            "stars": 2413
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2560,8 +2724,9 @@
             "last_commit": "2025-09-02T12:57:33Z",
             "owner": "cycloidio",
             "repo": "terracognita",
-            "stars": 2386
-          }
+            "stars": 2387
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2575,8 +2740,9 @@
             "last_commit": "2024-08-14T12:38:03Z",
             "owner": "28mm",
             "repo": "blast-radius",
-            "stars": 2188
-          }
+            "stars": 2189
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2591,7 +2757,8 @@
             "owner": "cycloidio",
             "repo": "inframap",
             "stars": 2059
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2606,7 +2773,8 @@
             "owner": "camptocamp",
             "repo": "terraboard",
             "stars": 2008
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2621,7 +2789,8 @@
             "owner": "kapicorp",
             "repo": "kapitan",
             "stars": 1925
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2636,7 +2805,8 @@
             "owner": "Azure",
             "repo": "aztfexport",
             "stars": 1910
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2651,7 +2821,8 @@
             "owner": "coinbase",
             "repo": "terraform-landscape",
             "stars": 1626
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2665,8 +2836,9 @@
             "last_commit": "2026-08-10T17:52:31Z",
             "owner": "patrickchugh",
             "repo": "terravision",
-            "stars": 1618
-          }
+            "stars": 1619
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2681,7 +2853,8 @@
             "owner": "tofuutils",
             "repo": "tenv",
             "stars": 1429
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2696,7 +2869,8 @@
             "owner": "cloudflare",
             "repo": "cf-terraforming",
             "stars": 1396
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2707,11 +2881,12 @@
             "archived": false,
             "id": 292427680,
             "language": "Go",
-            "last_commit": "2026-08-27T22:20:51Z",
+            "last_commit": "2026-08-28T21:03:18Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1362
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2726,7 +2901,8 @@
             "owner": "idoavrah",
             "repo": "terraform-tui",
             "stars": 1290
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2741,7 +2917,8 @@
             "owner": "minamijoyo",
             "repo": "tfmigrate",
             "stars": 1278
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2756,7 +2933,8 @@
             "owner": "sl1pm4t",
             "repo": "k2tf",
             "stars": 1234
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2771,7 +2949,8 @@
             "owner": "briefercloud",
             "repo": "layerform",
             "stars": 1207
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2786,7 +2965,8 @@
             "owner": "gaia-app",
             "repo": "gaia",
             "stars": 1080
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2801,7 +2981,8 @@
             "owner": "jrhouston",
             "repo": "tfk8s",
             "stars": 1057
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2816,7 +2997,8 @@
             "owner": "env0",
             "repo": "terratag",
             "stars": 1055
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2831,7 +3013,8 @@
             "owner": "sclevine",
             "repo": "yj",
             "stars": 1054
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2846,7 +3029,8 @@
             "owner": "fugue",
             "repo": "regula",
             "stars": 966
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2861,7 +3045,8 @@
             "owner": "bridgecrewio",
             "repo": "yor",
             "stars": 933
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2876,7 +3061,8 @@
             "owner": "JamesWoolfenden",
             "repo": "pike",
             "stars": 928
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2891,7 +3077,8 @@
             "owner": "busser",
             "repo": "tfautomv",
             "stars": 899
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2906,7 +3093,8 @@
             "owner": "antonbabenko",
             "repo": "serverless.tf",
             "stars": 879
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2921,7 +3109,8 @@
             "owner": "bridgecrewio",
             "repo": "AirIAM",
             "stars": 824
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2936,7 +3125,8 @@
             "owner": "flosell",
             "repo": "iam-policy-json-to-terraform",
             "stars": 817
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2951,7 +3141,8 @@
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2966,7 +3157,8 @@
             "owner": "aws-samples",
             "repo": "aws2tf",
             "stars": 761
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2981,7 +3173,8 @@
             "owner": "transcend-io",
             "repo": "terragrunt-atlantis-config",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -2996,7 +3189,8 @@
             "owner": "dineshba",
             "repo": "tf-summarize",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3011,7 +3205,8 @@
             "owner": "leg100",
             "repo": "pug",
             "stars": 695
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3026,7 +3221,8 @@
             "owner": "hieven",
             "repo": "terraform-visual",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3041,7 +3237,8 @@
             "owner": "minamijoyo",
             "repo": "tfupdate",
             "stars": 657
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3056,7 +3253,8 @@
             "owner": "minamijoyo",
             "repo": "hcledit",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3067,11 +3265,12 @@
             "archived": false,
             "id": 326347277,
             "language": "Go",
-            "last_commit": "2026-08-27T04:56:56Z",
+            "last_commit": "2026-08-28T21:57:41Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfcmt",
             "stars": 547
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3086,7 +3285,8 @@
             "owner": "kvz",
             "repo": "json2hcl",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3101,7 +3301,8 @@
             "owner": "tmccombs",
             "repo": "hcl2json",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3112,11 +3313,12 @@
             "archived": false,
             "id": 406547757,
             "language": "Go",
-            "last_commit": "2026-08-23T06:26:35Z",
+            "last_commit": "2026-08-28T08:34:40Z",
             "owner": "threatcl",
             "repo": "threatcl",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3131,7 +3333,8 @@
             "owner": "mantl",
             "repo": "terraform.py",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3146,7 +3349,8 @@
             "owner": "uber",
             "repo": "astro",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3157,11 +3361,12 @@
             "archived": false,
             "id": 448888766,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:20:57Z",
+            "last_commit": "2026-08-28T21:43:34Z",
             "owner": "suzuki-shunsuke",
             "repo": "tfaction",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3176,7 +3381,8 @@
             "owner": "pcasteran",
             "repo": "terraform-graph-beautifier",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3191,7 +3397,8 @@
             "owner": "flatt-security",
             "repo": "shisho",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3206,7 +3413,8 @@
             "owner": "GalleyBytes",
             "repo": "terraform-operator",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3221,7 +3429,8 @@
             "owner": "opencredo",
             "repo": "terrahelp",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3236,7 +3445,8 @@
             "owner": "nwiizo",
             "repo": "tfmcp",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3251,7 +3461,8 @@
             "owner": "dmlittle",
             "repo": "scenery",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3266,7 +3477,8 @@
             "owner": "antonbabenko",
             "repo": "modules.tf-lambda",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3281,7 +3493,8 @@
             "owner": "cycloidio",
             "repo": "terracost",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3296,7 +3509,8 @@
             "owner": "magodo",
             "repo": "pipeform",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3311,7 +3525,8 @@
             "owner": "awslabs",
             "repo": "terraform-iam-policy-validator",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3326,7 +3541,8 @@
             "owner": "cloudandthings",
             "repo": "terraform-aws-clickops-notifier",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3341,7 +3557,8 @@
             "owner": "minamijoyo",
             "repo": "tfschema",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3356,7 +3573,8 @@
             "owner": "chanzuckerberg",
             "repo": "fogg",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3371,7 +3589,8 @@
             "owner": "tfutils",
             "repo": "tfscaffold",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3386,7 +3605,8 @@
             "owner": "future-architect",
             "repo": "tftarget",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3401,7 +3621,8 @@
             "owner": "asdf-community",
             "repo": "asdf-hashicorp",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3416,7 +3637,8 @@
             "owner": "AlexNabokikh",
             "repo": "tfsort",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3431,7 +3653,8 @@
             "owner": "gofireflyio",
             "repo": "validiac",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3446,7 +3669,8 @@
             "owner": "tofuutils",
             "repo": "tofuenv",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3461,7 +3685,8 @@
             "owner": "shihanng",
             "repo": "tfvar",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3476,7 +3701,8 @@
             "owner": "tfxor",
             "repo": "terrahub",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3491,7 +3717,8 @@
             "owner": "cloudposse-archives",
             "repo": "tfmask",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3506,7 +3733,8 @@
             "owner": "cisco-open",
             "repo": "stacks",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3521,7 +3749,8 @@
             "owner": "chrislewisdev",
             "repo": "prettyplan",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3536,7 +3765,8 @@
             "owner": "wgpsec",
             "repo": "redc",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3551,7 +3781,8 @@
             "owner": "sylwit",
             "repo": "terraform-cleaner",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3566,7 +3797,8 @@
             "owner": "palantir",
             "repo": "tfjson",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3581,7 +3813,8 @@
             "owner": "datarootsio",
             "repo": "tf-profile",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3596,7 +3829,8 @@
             "owner": "suzuki-shunsuke",
             "repo": "tfmv",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3607,11 +3841,12 @@
             "archived": false,
             "id": 563978901,
             "language": "Go",
-            "last_commit": "2026-08-20T05:29:29Z",
+            "last_commit": "2026-08-28T17:41:19Z",
             "owner": "busser",
             "repo": "tftree",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3626,7 +3861,8 @@
             "owner": "lifeomic",
             "repo": "terraform-plan-parser",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3641,7 +3877,8 @@
             "owner": "naorlivne",
             "repo": "terraformize",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3656,7 +3893,8 @@
             "owner": "coretech",
             "repo": "terrafile",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3671,7 +3909,8 @@
             "owner": "paololazzari",
             "repo": "terraform-repl",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3686,7 +3925,8 @@
             "owner": "bflad",
             "repo": "tfproviderlint",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3701,7 +3941,8 @@
             "owner": "rogerwelin",
             "repo": "cfnctl",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3716,7 +3957,8 @@
             "owner": "andrewbaxter",
             "repo": "terrars",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3727,11 +3969,12 @@
             "archived": false,
             "id": 82499648,
             "language": "Ruby",
-            "last_commit": "2026-08-17T07:07:27Z",
+            "last_commit": "2026-08-28T07:02:29Z",
             "owner": "infrablocks",
             "repo": "ruby_terraform",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3746,7 +3989,8 @@
             "owner": "JamesWoolfenden",
             "repo": "sato",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3761,7 +4005,8 @@
             "owner": "coveooss",
             "repo": "tgf",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3776,7 +4021,8 @@
             "owner": "raymondbutcher",
             "repo": "pretf",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3791,7 +4037,8 @@
             "owner": "minamijoyo",
             "repo": "tfedit",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3806,7 +4053,8 @@
             "owner": "magodo",
             "repo": "hclgrep",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3821,7 +4069,8 @@
             "owner": "0xDones",
             "repo": "tfgen",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3836,7 +4085,8 @@
             "owner": "suzuki-shunsuke",
             "repo": "tfprovidercheck",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3851,7 +4101,8 @@
             "owner": "Madh93",
             "repo": "tpm",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3866,7 +4117,8 @@
             "owner": "rohinivsenthil",
             "repo": "terrastate",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3881,7 +4133,8 @@
             "owner": "avinor",
             "repo": "tau",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3896,7 +4149,8 @@
             "owner": "flavius-dinu",
             "repo": "tfgpt",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3911,7 +4165,8 @@
             "owner": "drifthoundhq",
             "repo": "drifthound",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3926,7 +4181,8 @@
             "owner": "contentful-labs",
             "repo": "terraform-diff",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3941,7 +4197,8 @@
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3956,7 +4213,8 @@
             "owner": "pwillis-els",
             "repo": "terraformsh",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3971,7 +4229,8 @@
             "owner": "nwiizo",
             "repo": "tfocus",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -3986,7 +4245,8 @@
             "owner": "ivanilves",
             "repo": "travelgrunt",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4001,7 +4261,8 @@
             "owner": "sirrend",
             "repo": "terrap-cli",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4016,7 +4277,8 @@
             "owner": "devopsmakers",
             "repo": "xterrafile",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4031,7 +4293,8 @@
             "owner": "derBroBro",
             "repo": "TerraDepot",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4046,7 +4309,8 @@
             "owner": "mercari",
             "repo": "hcledit",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4061,7 +4325,8 @@
             "owner": "paraterraform",
             "repo": "para",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4076,7 +4341,8 @@
             "owner": "cloud-custodian",
             "repo": "pytest-terraform",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4091,7 +4357,8 @@
             "owner": "SpotOnInc",
             "repo": "renovate-config",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4106,7 +4373,8 @@
             "owner": "coolapso",
             "repo": "tfimport",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4121,7 +4389,8 @@
             "owner": "miltlima",
             "repo": "terramagic",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4132,11 +4401,12 @@
             "archived": false,
             "id": 775838620,
             "language": "Go",
-            "last_commit": "2026-08-24T20:03:18Z",
+            "last_commit": "2026-08-28T05:43:25Z",
             "owner": "breml",
             "repo": "tfreveal",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4151,7 +4421,8 @@
             "owner": "oulman",
             "repo": "tfvaultenv",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4166,7 +4437,8 @@
             "owner": "nitinjain999",
             "repo": "platform-skills",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4181,7 +4453,8 @@
             "owner": "claranet",
             "repo": "python-terrafile",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4196,7 +4469,8 @@
             "owner": "MastodonC",
             "repo": "terraboot",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4211,7 +4485,8 @@
             "owner": "paololazzari",
             "repo": "fuzzy-terraform-rm",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4226,7 +4501,8 @@
             "owner": "jaceq",
             "repo": "terraeasy",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4241,7 +4517,8 @@
             "owner": "tfmigrator",
             "repo": "cli",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4256,7 +4533,8 @@
             "owner": "YakDriver",
             "repo": "scratchrelaxtv",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4271,7 +4549,8 @@
             "owner": "Raj-glitch-max",
             "repo": "tf.why",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4286,7 +4565,8 @@
             "owner": "cloudandthings",
             "repo": "terraform-pretty-plan",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4301,7 +4581,8 @@
             "owner": "ysoftwareab",
             "repo": "tfrepl",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4316,7 +4597,8 @@
             "owner": "trupositive-ai",
             "repo": "trupositive",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4331,7 +4613,8 @@
             "owner": "tfmake",
             "repo": "tfmake",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4346,7 +4629,8 @@
             "owner": "ketchoop",
             "repo": "flora",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4357,11 +4641,12 @@
             "archived": false,
             "id": 579272958,
             "language": "Go",
-            "last_commit": "2026-08-25T22:03:03Z",
+            "last_commit": "2026-08-28T19:14:12Z",
             "owner": "spilliams",
             "repo": "terrascope",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4376,7 +4661,8 @@
             "owner": "shuaibiyy",
             "repo": "terraform-provisioner",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4391,7 +4677,8 @@
             "owner": "miller-time",
             "repo": "hq",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4406,7 +4693,8 @@
             "owner": "magodo",
             "repo": "hcldump",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4421,7 +4709,8 @@
             "owner": "chenrui333",
             "repo": "terraformer",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4436,7 +4725,8 @@
             "owner": "hayorov",
             "repo": "terraform-init-booster",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4451,7 +4741,24 @@
             "owner": "manheim",
             "repo": "tfwrapper",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
+        },
+        {
+          "node_type": "item",
+          "title": "demonolith",
+          "description": "Splits up monolithic Terraform projects with (to move the code) and (to migrate into smaller .tfstate files).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1286752979,
+            "language": "Go",
+            "last_commit": "2026-08-26T18:33:04Z",
+            "owner": "schrieksoft",
+            "repo": "demonolith",
+            "stars": 5
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4466,22 +4773,8 @@
             "owner": "oulman",
             "repo": "terraform-credentials-vault",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "demonolith",
-          "description": "Splits up monolithic Terraform projects with (to move the code) and (to migrate into smaller .tfstate files).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1286752979,
-            "language": "Go",
-            "last_commit": "2026-08-26T18:33:04Z",
-            "owner": "schrieksoft",
-            "repo": "demonolith",
-            "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4496,7 +4789,8 @@
             "owner": "gina-alaska",
             "repo": "terraform-rake-tasks",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4511,7 +4805,8 @@
             "owner": "henrybravo",
             "repo": "zephy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4526,7 +4821,8 @@
             "owner": "tedilabs",
             "repo": "tfvault",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4541,7 +4837,8 @@
             "owner": "dxw",
             "repo": "terrafile",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4556,7 +4853,8 @@
             "owner": "chenrui333",
             "repo": "terradozer",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4571,7 +4869,8 @@
             "owner": "anmolnagpal",
             "repo": "terraform-ai-skills",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4582,11 +4881,12 @@
             "archived": false,
             "id": 1281028276,
             "language": "Shell",
-            "last_commit": "2026-08-27T15:41:37Z",
+            "last_commit": "2026-08-28T13:01:30Z",
             "owner": "bare-devcontainer",
             "repo": "templates",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4601,7 +4901,8 @@
             "owner": "shieldly-io",
             "repo": "cli",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "children": [
@@ -4617,8 +4918,9 @@
                 "last_commit": "2026-07-27T18:02:43Z",
                 "owner": "hashicorp",
                 "repo": "setup-terraform",
-                "stars": 1583
-              }
+                "stars": 1584
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -4629,11 +4931,12 @@
                 "archived": false,
                 "id": 379599704,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T17:30:15Z",
+                "last_commit": "2026-08-28T17:44:57Z",
                 "owner": "cds-snc",
                 "repo": "terraform-plan",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             },
             {
               "node_type": "item",
@@ -4648,7 +4951,8 @@
                 "owner": "Liam-Johnston",
                 "repo": "terraform-risk-assessor",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -4670,7 +4974,8 @@
                 "owner": "adamiBs",
                 "repo": "vscode-terraform-live-graph",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T22:35:53.454Z"
             }
           ],
           "description": null,
@@ -4696,7 +5001,8 @@
             "owner": "virtuald",
             "repo": "pyhcl",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4711,7 +5017,8 @@
             "owner": "amplify-education",
             "repo": "python-hcl2",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4726,7 +5033,8 @@
             "owner": "martinohmann",
             "repo": "hcl-rs",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4741,7 +5049,8 @@
             "owner": "tree-sitter-grammars",
             "repo": "tree-sitter-hcl",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4756,7 +5065,8 @@
             "owner": "wondrify",
             "repo": "hcl4j",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4771,7 +5081,8 @@
             "owner": "winebarrel",
             "repo": "rhcl",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4786,7 +5097,8 @@
             "owner": "Yethal",
             "repo": "nu_plugin_hcl",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Libraries"
@@ -4807,7 +5119,8 @@
             "owner": "sudokar",
             "repo": "generator-tf-module",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4822,7 +5135,8 @@
             "owner": "sarmakska",
             "repo": "terraform-stack",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Boilerplates"
@@ -4839,11 +5153,12 @@
             "archived": false,
             "id": 563468160,
             "language": "Go",
-            "last_commit": "2026-08-27T21:53:29Z",
+            "last_commit": "2026-08-28T21:45:11Z",
             "owner": "padok-team",
             "repo": "burrito",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4858,7 +5173,8 @@
             "owner": "leg100",
             "repo": "otf",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4873,7 +5189,8 @@
             "owner": "Clivern",
             "repo": "Lynx",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4888,7 +5205,8 @@
             "owner": "D10S0VSkY-OSS",
             "repo": "Stack-Lifecycle-Deployment",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4902,8 +5220,9 @@
             "last_commit": "2025-10-19T21:04:06Z",
             "owner": "dragondrop-cloud",
             "repo": "cloud-concierge",
-            "stars": 247
-          }
+            "stars": 246
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4918,7 +5237,8 @@
             "owner": "schrieksoft",
             "repo": "snapcd",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Self-hosted Terraform Platforms"
@@ -4926,21 +5246,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "terraform-enterprise-migrator",
-          "description": "Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 124249756,
-            "language": "Go",
-            "last_commit": "2026-08-25T03:18:38Z",
-            "owner": "sil-org",
-            "repo": "tfc-ops",
-            "stars": 13
-          }
-        },
         {
           "node_type": "item",
           "title": "terraform-enterprise-cli",
@@ -4954,7 +5259,24 @@
             "owner": "skierkowski",
             "repo": "terraform-enterprise-cli",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-enterprise-migrator",
+          "description": "Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124249756,
+            "language": "Go",
+            "last_commit": "2026-08-25T03:18:38Z",
+            "owner": "sil-org",
+            "repo": "tfc-ops",
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -4969,7 +5291,8 @@
             "owner": "skierkowski",
             "repo": "terraform-enterprise-client",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Terraform Enterprise Tooling"
@@ -4990,7 +5313,8 @@
             "owner": "hashicorp",
             "repo": "terraform-ls",
             "stars": 1198
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -5005,7 +5329,8 @@
             "owner": "hashivim",
             "repo": "vim-terraform",
             "stars": 1109
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -5020,7 +5345,8 @@
             "owner": "juliosueiras",
             "repo": "terraform-lsp",
             "stars": 590
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -5035,7 +5361,8 @@
             "owner": "juliosueiras",
             "repo": "vim-terraform-completion",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -5050,7 +5377,8 @@
             "owner": "hcl-emacs",
             "repo": "terraform-mode",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         },
         {
           "node_type": "item",
@@ -5065,14 +5393,15 @@
             "owner": "jvirtanen",
             "repo": "vim-hcl",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T22:35:53.454Z"
         }
       ],
       "title": "Editor Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:32:44.467Z",
+    "last_updated": "2026-08-28T22:35:53.454Z",
     "original_repository_info": {
       "archived": false,
       "id": 58478671,
